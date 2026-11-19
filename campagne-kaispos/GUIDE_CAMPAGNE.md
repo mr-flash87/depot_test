@@ -1,8 +1,19 @@
 # Campagne Kaïs POS : vidéo et plan Meta Ads
 
-## 1. La vidéo
+## 1. Les vidéos (46 s, même contenu, 2 formats)
 
-- Fichier : `KaisPOS_pub_9x16.mp4`, au format vertical 1080 × 1920 (Reels, Stories, TikTok, WhatsApp Status), d'une durée de 46 secondes.
+| Fichier | Format | Placements Meta |
+|---|---|---|
+| `KaisPOS_pub_1x1.mp4` | Carré 1080 × 1080 | **Tous** : fil Facebook et Instagram, Marketplace, vidéos in-stream, recherche, colonne de droite, Explorer, Messenger, Audience Network. Utilisable seul pour couvrir tout. |
+| `KaisPOS_pub_9x16_safe.mp4` | Vertical 1080 × 1920 | Reels Facebook et Instagram, Stories, Status WhatsApp. Tous les textes et le bouton WhatsApp restent dans la **zone sûre** : 270 px libres en haut, 670 px en bas, sous l'interface Meta. |
+
+**Dans le Gestionnaire de publicités :**
+1. Une seule pub, avec les **placements Advantage+** (tous les placements).
+2. Dans la pub, mettez la vidéo **1:1**. Ensuite, dans **« Personnaliser les médias par placement »**, choisissez la **9:16 safe** pour Stories, Reels et Status.
+3. Format de destination : **WhatsApp**. Bouton : **Envoyer un message WhatsApp**.
+4. Si Meta propose « Améliorations Advantage+ créatives », **désactivez le recadrage automatique** (« Retouches visuelles / Ajuster le format »), pour qu'il ne coupe pas le texte.
+
+> `KaisPOS_pub_9x16.mp4` est la première version. Évitez-la dans les Reels et Stories, car le haut et le bas passent sous l'interface.
 - Voix off ElevenLabs « Tony », une voix française avec un léger accent africain, conçue pour la pub.
 - Musique de fond afro / amapiano générée par ElevenLabs, sans paroles.
 - Les écrans montrés sont de **vraies captures** de kaispos.pixelpub.online, prises dans la boutique de démo « Supérette Awa » : caisse, reçu, stock, journal, vente hors ligne, tableau de bord et page Licence.
