@@ -31,3 +31,9 @@ CTA : Et vous, vous protégez votre admin comment ?
 - Garder 2 voix ElevenLabs distinctes (une par personnage), même flow ; assembler les répliques bout à bout.
 - Durée : viser 45–60 s (le format sketch a besoin d'un peu plus que 30 s).
 - Sujet tech utile + « méthode en N étapes », jamais le même thème que la référence (sécurité d'admin déjà vu).
+
+## Personnages (fournis par Assane le 2026-11-19)
+- **Le naïf** : veste noire + t-shirt blanc → `assets/avatar_cutout.png` (photo source `assets/avatar.png`), coupé mi-cuisse : à placer en bas de l'écran.
+- **L'expert** : chemise bleu marine + pantalon beige, doigt levé (« Note. ») → `assets/perso_bleu_cutout.png` (source `assets/perso_bleu.png`), en pied.
+- Les deux personnages se répondent : celui qui parle est au premier plan (plus grand, net), l'autre se réduit/s'estompe sur le côté. Gros plan (zoom sur le visage) pour les punchlines.
+- 2 voix ElevenLabs différentes (à choisir via creative_list_voices, fr, male, young) : naïf = voix enjouée/naïve, expert = voix posée/blasée. Garder les mêmes voix d'un épisode à l'autre une fois choisies (noter les voice_id ici).
