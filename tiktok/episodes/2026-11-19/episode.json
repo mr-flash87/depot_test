@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "topic": "ChatGPT Wallet : les agents IA peuvent payer sans voir ta carte",
+  "category": "IA x paiement / agents",
+  "tag": "ACTU IA",
+  "series": "Actu tech · #1",
+  "output": "assane_techia_2026-11-19_chatgpt-wallet.mp4",
+  "sources": [
+    "https://openai.com/index/introducing-chatgpt-wallet/",
+    "https://www.ghacks.net/2026/11/15/openai-launches-chatgpt-wallet-so-agents-can-pay-without-seeing-your-card-details/",
+    "https://www.fintechfutures.com/digital-payments/openai-chatgpt-wallet-launch"
+  ],
+  "scenes": [
+    {"start": 0.0, "end": 4.1, "html": "<div class='emoji'>🤖💳</div><div class='h1'>Ton IA fait <span class='hl'>tes achats</span></div><div class='p'>…sans jamais voir ta carte 🔒</div>"},
+    {"start": 4.1, "end": 7.6, "html": "<div class='kicker'>Nouveau · 13 nov. 2026</div><div class='card'><div class='h1'>ChatGPT <span class='cy'>Wallet</span></div><div class='p' style='margin-top:18px'>Le portefeuille pour agents IA</div></div><div class='badge'>⚡ by OpenAI</div>"},
+    {"start": 7.6, "end": 17.7, "html": "<div class='kicker'>Comment ça marche</div><div class='card' style='display:flex;flex-direction:column;gap:44px'><div class='item' data-at='0.1'><div class='num'>🛒</div><div class='txt'>Tu demandes un achat<small>« Achète-moi ce produit »</small></div></div><div class='item' data-at='2.2'><div class='num'>🔐</div><div class='txt'>Tu valides<small>Face ID ou empreinte</small></div></div><div class='item' data-at='4.6'><div class='num'>💳</div><div class='txt'>Visa · Mastercard · Amex<small>créent une <span class='hl'>carte temporaire</span> pour cet achat</small></div></div></div>"},
+    {"start": 17.7, "end": 23.1, "html": "<div class='kicker'>Sécurité</div><div class='split'><div class='card'><div class='big-emoji'>🤖</div><div class='h2' style='font-size:50px'>L'IA</div><div class='p pk' style='margin-top:10px'>❌ ne voit pas<br>ta carte</div></div><div class='card'><div class='big-emoji'>🏪</div><div class='h2' style='font-size:50px'>Le marchand</div><div class='p pk' style='margin-top:10px'>❌ ne la voit<br>pas non plus</div></div></div><div class='card item' data-at='2.8'><div class='num'>✅</div><div class='txt'>Tu gardes tes points<small>+ la protection en cas de litige</small></div></div>"},
+    {"start": 23.1, "end": 25.95, "html": "<div class='emoji'>🇺🇸</div><div class='h2'>Réservé aux abonnés <span class='hl'>Pro</span></div><div class='p'>États-Unis uniquement… <span class='cy'>pour l'instant</span></div>"},
+    {"start": 25.95, "end": 28.8, "html": "<div class='kicker'>Ce que ça change</div><div class='h1'>Les agents IA vont <span class='pk'>dépenser</span> pour toi 💸</div>"},
+    {"start": 28.8, "end": 34.2, "html": "<div class='emoji'>🤔</div><div class='h2'>Tu leur ferais <span class='hl'>confiance</span> ?</div><div class='card item' data-at='1.4'><div class='num'>💬</div><div class='txt'>Dis-le en commentaire</div></div><div class='card item' data-at='2.6'><div class='num'>➕</div><div class='txt'>Abonne-toi<small>L'actu tech &amp; IA chaque matin</small></div></div>"}
+  ]
+}
