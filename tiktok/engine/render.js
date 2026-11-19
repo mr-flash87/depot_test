@@ -31,12 +31,12 @@ function levels() {
 }
 
 (async () => {
-  const avatar = 'data:image/png;base64,' + fs.readFileSync(path.join(root, 'assets', 'avatar.png')).toString('base64');
+  const avatar = 'data:image/png;base64,' + fs.readFileSync(path.join(root, 'assets', episode.template === 'template_dark.html' ? 'avatar.png' : 'avatar_cutout.png')).toString('base64');
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
-  await page.goto('file://' + path.join(__dirname, 'template.html'));
+  await page.goto('file://' + path.join(__dirname, episode.template || 'template.html'));
   await page.evaluate(d => window.setup(d), { episode, words, levels: levels(), fps: FPS, duration, avatar });
-  await page.evaluate(() => document.fonts.ready);
+  await page.evaluate(() => { window.render(1); return document.fonts.ready; });
 
   if (previewArg > -1) {
     for (const t of process.argv[previewArg + 1].split(',').map(Number)) {

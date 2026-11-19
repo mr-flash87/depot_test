@@ -2,8 +2,6 @@
   "date": "2026-11-19",
   "topic": "ChatGPT Wallet : les agents IA peuvent payer sans voir ta carte",
   "category": "IA x paiement / agents",
-  "tag": "ACTU IA",
-  "series": "Actu tech · #1",
   "output": "assane_techia_2026-11-19_chatgpt-wallet.mp4",
   "sources": [
     "https://openai.com/index/introducing-chatgpt-wallet/",
@@ -11,12 +9,25 @@
     "https://www.fintechfutures.com/digital-payments/openai-chatgpt-wallet-launch"
   ],
   "scenes": [
-    {"start": 0.0, "end": 4.1, "html": "<div class='emoji'>🤖💳</div><div class='h1'>Ton IA fait <span class='hl'>tes achats</span></div><div class='p'>…sans jamais voir ta carte 🔒</div>"},
-    {"start": 4.1, "end": 7.6, "html": "<div class='kicker'>Nouveau · 13 nov. 2026</div><div class='card'><div class='h1'>ChatGPT <span class='cy'>Wallet</span></div><div class='p' style='margin-top:18px'>Le portefeuille pour agents IA</div></div><div class='badge'>⚡ by OpenAI</div>"},
-    {"start": 7.6, "end": 17.7, "html": "<div class='kicker'>Comment ça marche</div><div class='card' style='display:flex;flex-direction:column;gap:44px'><div class='item' data-at='0.1'><div class='num'>🛒</div><div class='txt'>Tu demandes un achat<small>« Achète-moi ce produit »</small></div></div><div class='item' data-at='2.2'><div class='num'>🔐</div><div class='txt'>Tu valides<small>Face ID ou empreinte</small></div></div><div class='item' data-at='4.6'><div class='num'>💳</div><div class='txt'>Visa · Mastercard · Amex<small>créent une <span class='hl'>carte temporaire</span> pour cet achat</small></div></div></div>"},
-    {"start": 17.7, "end": 23.1, "html": "<div class='kicker'>Sécurité</div><div class='split'><div class='card'><div class='big-emoji'>🤖</div><div class='h2' style='font-size:50px'>L'IA</div><div class='p pk' style='margin-top:10px'>❌ ne voit pas<br>ta carte</div></div><div class='card'><div class='big-emoji'>🏪</div><div class='h2' style='font-size:50px'>Le marchand</div><div class='p pk' style='margin-top:10px'>❌ ne la voit<br>pas non plus</div></div></div><div class='card item' data-at='2.8'><div class='num'>✅</div><div class='txt'>Tu gardes tes points<small>+ la protection en cas de litige</small></div></div>"},
-    {"start": 23.1, "end": 25.95, "html": "<div class='emoji'>🇺🇸</div><div class='h2'>Réservé aux abonnés <span class='hl'>Pro</span></div><div class='p'>États-Unis uniquement… <span class='cy'>pour l'instant</span></div>"},
-    {"start": 25.95, "end": 28.8, "html": "<div class='kicker'>Ce que ça change</div><div class='h1'>Les agents IA vont <span class='pk'>dépenser</span> pour toi 💸</div>"},
-    {"start": 28.8, "end": 34.2, "html": "<div class='emoji'>🤔</div><div class='h2'>Tu leur ferais <span class='hl'>confiance</span> ?</div><div class='card item' data-at='1.4'><div class='num'>💬</div><div class='txt'>Dis-le en commentaire</div></div><div class='card item' data-at='2.6'><div class='num'>➕</div><div class='txt'>Abonne-toi<small>L'actu tech &amp; IA chaque matin</small></div></div>"}
+    {"start": 0.0, "end": 4.1, "avatar": {"x": 540, "h": 900},
+     "html": "<span class='tag' data-at='0'>Actu IA</span><div class='card chat' data-at='0.15' style='margin-top:26px'><div class='hd'><i></i>ChatGPT</div><div class='body' style='min-height:150px'><div class='bub' data-at='0.5' data-anim='drop'><span data-type='0.5' data-dur='0.9'>Achète-moi des écouteurs 🎧</span></div><div class='rep' data-at='1.9' data-anim='slide'>✅ Commande passée — <b>sans voir ta carte</b></div></div></div>"},
+
+    {"start": 4.1, "end": 7.6, "avatar": {"x": 540, "h": 900},
+     "html": "<span class='tag' data-at='0'>Nouveau · OpenAI</span><div class='title xl' data-at='0.1' style='margin-top:60px'>ChatGPT<br><b>Wallet</b></div><div class='center' style='margin-top:40px'><span class='sticker' data-at='1.3' data-rot='-4'>Lancé le 13 nov. 2026</span></div>"},
+
+    {"start": 7.6, "end": 17.7, "avatar": {"x": 870, "h": 600},
+     "html": "<span class='tag'>Comment ça marche</span><div class='title'>3 étapes — <b>0 numéro de carte</b></div><div class='gap'></div><div class='item' data-at='0.1' data-anim='slide'><div class='n'>01</div><i data-icon='cart'></i><div class='t'>Tu demandes<small>« Achète-moi ce produit »</small></div></div><div class='item' data-at='2.25' data-anim='slide'><div class='n'>02</div><i data-icon='finger'></i><div class='t'>Tu valides<small>Face ID ou empreinte</small></div></div><div class='item' data-at='4.5' data-anim='slide'><div class='n'>03</div><i data-icon='card'></i><div class='t'>Carte temporaire<small>Visa · Mastercard · Amex</small></div></div><div class='cc' data-at='7.2' style='width:690px;height:290px;margin-top:10px'><div class='lbl'>1 SEUL ACHAT</div><div class='chip'></div><div class='num'>4921 •••• 7730</div><div class='meta'>Numéro temporaire</div></div>"},
+
+    {"start": 17.7, "end": 23.1, "avatar": {"x": 210, "h": 620},
+     "html": "<span class='tag'>Sécurité</span><div class='title'>Ta vraie carte<br><b>reste cachée</b></div><div class='gap'></div><div class='row' style='justify-content:center;gap:40px'><div class='tile rel' data-at='0.15'><i data-icon='robot'></i>L'IA<div class='x'>✕</div></div><div class='tile rel' data-at='1.0'><i data-icon='store'></i>Le marchand<div class='x'>✕</div></div></div><div class='gap'></div><div class='item' data-at='2.75' data-anim='slide' style='margin-left:330px'><i data-icon='gift'></i><div class='t'>Points gardés</div></div><div class='item' data-at='3.9' data-anim='slide' style='margin-left:330px'><i data-icon='shield'></i><div class='t'>Protection litige</div></div>"},
+
+    {"start": 23.1, "end": 25.95, "avatar": {"x": 540, "h": 900},
+     "html": "<span class='tag'>Disponibilité</span><div class='card warn' data-at='0.05' style='margin-top:26px'><i data-icon='warn'></i><div>Pour<br>l'instant…</div></div><div class='card' data-at='0.7' style='margin-top:30px;padding:28px 34px;font-weight:900;font-size:46px;text-transform:uppercase;line-height:1.1'>Réservé aux abonnés <b>Pro</b><br>aux <b>États-Unis</b> 🇺🇸</div><div class='think' data-at='1.8' style='left:640px;top:690px'>?</div>"},
+
+    {"start": 25.95, "end": 28.8, "avatar": {"x": 540, "h": 900},
+     "html": "<span class='tag'>Ce que ça change</span><div class='title xl' data-at='0.05' style='font-size:78px;margin-top:40px'>Les agents IA<br><b>dépensent</b><br>pour toi</div><div class='center' style='margin-top:30px'><span class='sticker' data-at='1.2' data-rot='-4' style='font-size:38px'>Le futur est déjà là</span></div>"},
+
+    {"start": 28.8, "end": 34.2, "avatar": {"x": 800, "h": 680},
+     "html": "<span class='tag'>À toi de jouer</span><div class='card' data-at='0.05' style='margin-top:26px;padding:26px 32px'><div style='display:flex;align-items:center;gap:12px;font-weight:800;font-size:24px;letter-spacing:1px'><span class='ic' style='width:38px'><i data-icon='comment'></i></span>COMMENTAIRE</div><div style='font-weight:900;font-size:56px;text-transform:uppercase;line-height:1.05;margin-top:14px'>Tu lui ferais<br><b>confiance ?</b></div></div><div style='margin-top:36px'><span class='btn' data-at='1.4' data-anim='slide'>Réponds en commentaire</span></div><div class='card' data-at='1.6' style='margin-top:30px;width:560px;box-shadow:8px 8px 0 #111'><div style='padding:16px 20px;font-weight:600;font-size:28px;color:#555;min-height:66px'><span data-type='1.8' data-dur='1'>Oui, si je valide…</span></div></div><div class='card' data-at='2.65' data-anim='drop' style='margin-top:40px;width:640px;display:flex;align-items:center;gap:18px;padding:18px 22px'><span class='ic' style='width:62px'><i data-icon='bell'></i></span><div style='flex:1;font-weight:900;font-size:28px;text-transform:uppercase;line-height:1.1'>Abonne-toi pour<br>l'actu <b>tech chaque matin</b></div><div style='background:#111;color:#fff;font-weight:800;font-size:22px;padding:10px 14px' data-on='3.6'>ABONNÉ ✓</div></div>"}
   ]
 }

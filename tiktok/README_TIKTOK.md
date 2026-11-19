@@ -1,6 +1,8 @@
 # Assane | Tech-IA — usine à vidéos TikTok
 
-Format : motion design « explainer à cartes + avatar », 1080×1920, 30–45 s, voix off ElevenLabs (voix « Hugo – Punchy French Creator », `3Tp5mYhT9wrfnry9pzvV`, modèle `eleven_v4`).
+Format : motion design « explainer à cartes + avatar » au style de la vidéo de référence (fond clair quadrillé, cartes blanches néo-brutalistes bordure + ombre noire, bleu #2350F0 / violet #7B61FF, police Montserrat, sous-titres en haut mot par mot, avatar détouré `assets/avatar_cutout.png` qui se déplace via `"avatar": {"x","h"}` par scène). 1080×1920, 30–45 s, voix off ElevenLabs (voix « Hugo – Punchy French Creator », `3Tp5mYhT9wrfnry9pzvV`, modèle `eleven_v4`).
+
+Composants dispo dans `engine/template.html` : `.tag`, `.title` (`.xl`), `.card`, `.chat` (bulles `.bub`/`.rep`), `.item` (+ `.n` numéro), `.tile` (+ `.x`), `.cc` (carte bancaire), `.btn`, `.sticker`, `.warn`, `.think`, icônes `<i data-icon="cart|finger|card|robot|store|shield|gift|warn|bell|comment|money|globe">`. Animations : `data-at` (apparition, `data-anim` pop|slide|drop, `data-rot`), `data-type` (texte tapé), `data-on` (surbrillance), `data-strike` (barré). Ancien style sombre : `"template": "template_dark.html"`.
 
 ## Pipeline quotidien
 1. Recherche d'une actu tech/IA récente (≤ 7 jours), vérifier `topics.md` → sujet ET catégorie différents des jours précédents.
