@@ -10,5 +10,5 @@ Composants dispo dans `engine/template.html` : `.tag`, `.title` (`.xl`), `.card`
 3. Voix off : `creative_generate_speech` (1 seule prise), télécharger en `episodes/<date>/voice.mp3`.
 4. Timings : `creative_transcribe_audio` (connect_from = nœud audio) → words.json → `python3 engine/prep_words.py raw.json episodes/<date>/words.json`.
 5. Écrire `episodes/<date>/episode.json` (scènes calées sur les timings des mots), aperçu : `node engine/render.js episodes/<date> --preview 2,10,20`.
-6. Rendu : `node engine/render.js episodes/<date>` → MP4 + `caption.txt` (légende + hashtags).
+6. Rendu : `node engine/render.js episodes/<date>` → MP4 + `caption.txt` : légende courte + **exactement 5 hashtags** (limite TikTok), à recopier aussi dans la réponse à Assane.
 7. Ajouter la ligne dans `topics.md`, commit + push.
