@@ -1,0 +1,44 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 5.468,
+  "text": "Frérot, regarde ! Mon patron m'appelle en visio : il veut un virement urgent, et c'est confidentiel !"
+ },
+ {
+  "who": "expert",
+  "start": 5.748,
+  "end": 17.355,
+  "text": "Pose ce téléphone. Aux États-Unis, trois hommes viennent d'être inculpés : avec l'IA, ils imitaient la voix et le visage de patrons. Cent vingt-neuf millions de dollars volés."
+ },
+ {
+  "who": "naif",
+  "start": 17.635,
+  "end": 20.008,
+  "text": "Mais… c'est sa voix, c'est sa tête !"
+ },
+ {
+  "who": "expert",
+  "start": 20.288,
+  "end": 35.764,
+  "text": "C'est exactement le piège. Trois réflexes. Un : urgence plus secret, c'est le signal d'alarme. Deux : tu raccroches, et tu rappelles ton patron sur son vrai numéro. Trois : en famille comme au boulot, ayez un mot de code que l'IA ne peut pas deviner."
+ },
+ {
+  "who": "naif",
+  "start": 36.044,
+  "end": 38.404,
+  "text": "Un mot de code… genre « attiéké » ?"
+ },
+ {
+  "who": "expert",
+  "start": 38.684,
+  "end": 41.315,
+  "text": "Pas si tu le dis sur TikTok."
+ },
+ {
+  "who": "expert",
+  "start": 41.595,
+  "end": 44.859,
+  "text": "Et toi, t'as déjà reçu un appel louche ? Raconte en commentaire."
+ }
+]

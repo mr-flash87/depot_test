@@ -1,0 +1,198 @@
+{
+ "date": "2026-11-20",
+ "format": "dialogue",
+ "template": "template_dialogue.html",
+ "topic": "Arnaques deepfake : 3 hommes inculpés pour 129 M$ volés en imitant des patrons avec l'IA",
+ "category": "Cybersécurité / arnaque IA",
+ "output": "assane_techia_2026-11-20_deepfake-patron.mp4",
+ "voices": {
+  "naif": "qGwq3bbZd3aOEpsBcuc6 (David)",
+  "expert": "mQS95w8LbLFsF6QihxDH (Dave - Narrateur Pro)"
+ },
+ "sources": [
+  "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+  "https://www.itpro.com/security/cyber-crime/three-charged-after-impersonating-ceos-and-attorneys-in-usd129-million-deepfake-fraud-scheme",
+  "https://www.scmp.com/news/world/united-states-canada/article/3373511/us-accuses-trio-using-ai-impersonate-ceos-and-lawyers-steal-us129-million"
+ ],
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Le naïf"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "L'expert"
+  }
+ },
+ "steps": [
+  {
+   "label": "1 · Urgence",
+   "start": 22.87
+  },
+  {
+   "label": "2 · Rappel",
+   "start": 26.9
+  },
+  {
+   "label": "3 · Mot de code",
+   "start": 31.08
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 5.6,
+   "cast": {
+    "naif": {
+     "x": 540,
+     "h": 920
+    },
+    "expert": {
+     "x": 1300,
+     "h": 1000
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Appel entrant</span><div class='card chat' data-at='0.1' style='margin-top:26px'><div class='hd'><span class='ic' style='width:44px'><i data-icon='video'></i></span>Visio · LE PATRON</div><div class='body' style='min-height:120px'><div class='rep' data-at='1.3' data-anim='slide'>💸 Fais un <b>virement urgent</b>.</div><div class='bub' data-at='3.4' data-anim='drop'>🤫 C'est confidentiel.</div></div></div>"
+  },
+  {
+   "start": 5.6,
+   "end": 17.5,
+   "cast": {
+    "naif": {
+     "x": 210,
+     "h": 640,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 790,
+     "h": 880
+    }
+   },
+   "html": "<span class='tag'>Actu · 6 nov. 2026</span><div class='title'>Des patrons <b>clonés</b><br>par l'IA</div><div class='gap'></div><div class='item' data-at='2.6' data-anim='slide'><i data-icon='warn'></i><div class='t'>3 hommes inculpés<small>New York · fraude &amp; usurpation</small></div></div><div class='item' data-at='5.4' data-anim='slide'><i data-icon='robot'></i><div class='t'>Voix + visage imités<small>de patrons et d'avocats</small></div></div><div class='center'><span class='sticker' data-at='9.1' data-rot='-3' style='font-size:60px'>129 M$ volés</span></div>"
+  },
+  {
+   "start": 17.5,
+   "end": 20.15,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 960
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:80px;font-size:84px'>« Mais c'est<br><b>sa tête !</b> »</div><div class='think' data-at='0.9' style='left:430px;top:420px'>?</div>"
+  },
+  {
+   "start": 20.15,
+   "end": 35.95,
+   "cast": {
+    "naif": {
+     "x": 170,
+     "h": 560,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 850,
+     "h": 780
+    }
+   },
+   "html": "<span class='tag'>C'est le piège</span><div class='title'>3 réflexes <b>anti-deepfake</b></div><div class='gap'></div><div class='item' data-at='2.7' data-anim='slide'><div class='n'>01</div><i data-icon='warn'></i><div class='t'>Urgence + secret<small>= signal d'alarme 🚨</small></div></div><div class='item' data-at='6.75' data-anim='slide'><div class='n'>02</div><i data-icon='phone'></i><div class='t'>Raccroche &amp; rappelle<small>sur son <b>vrai</b> numéro</small></div></div><div class='item' data-at='10.9' data-anim='slide'><div class='n'>03</div><i data-icon='shield'></i><div class='t'>Un mot de code<small>que l'IA ne peut pas deviner</small></div></div>"
+  },
+  {
+   "start": 35.95,
+   "end": 38.55,
+   "cast": {
+    "naif": {
+     "x": 340,
+     "h": 960
+    },
+    "expert": {
+     "x": 840,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<span class='tag'>Mot de code</span><div class='card center' data-at='0.1' style='margin-top:40px;padding:40px'><div style='font-weight:800;font-size:30px;letter-spacing:2px;color:#777'>NOTRE MOT SECRET</div><div style='font-weight:900;font-size:96px;margin-top:10px'><b>ATTIÉKÉ</b> 🍚</div></div>"
+  },
+  {
+   "start": 38.55,
+   "end": 41.45,
+   "cast": {
+    "naif": {
+     "x": 250,
+     "h": 720,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 780,
+     "h": 900
+    }
+   },
+   "html": "<span class='tag'>Mot de code</span><div class='card center' style='margin-top:40px;padding:40px'><div style='font-weight:800;font-size:30px;letter-spacing:2px;color:#777'>NOTRE MOT SECRET</div><div style='font-weight:900;font-size:96px;margin-top:10px'><span class='strike' data-strike='0.5'><b>ATTIÉKÉ</b></span> 🍚</div></div><div class='center' style='margin-top:40px'><span class='sticker' data-at='1.0' data-rot='-4'>Pas sur TikTok 😅</span></div>"
+  },
+  {
+   "start": 41.45,
+   "end": 46.0,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 680,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 810,
+     "h": 900
+    }
+   },
+   "html": "<span class='tag'>À toi de jouer</span><div class='card' data-at='0.05' style='margin-top:26px;padding:26px 32px'><div style='display:flex;align-items:center;gap:12px;font-weight:800;font-size:24px;letter-spacing:1px'><span class='ic' style='width:38px'><i data-icon='comment'></i></span>COMMENTAIRE</div><div style='font-weight:900;font-size:54px;text-transform:uppercase;line-height:1.05;margin-top:14px'>T'as déjà reçu un<br><b>appel louche ?</b></div></div><div style='margin-top:34px'><span class='btn' data-at='2.4' data-anim='slide'>Raconte en commentaire</span></div><div class='card' data-at='2.7' style='margin-top:30px;width:600px;box-shadow:8px 8px 0 #111'><div style='padding:16px 20px;font-weight:600;font-size:28px;color:#555;min-height:66px'><span data-type='2.9' data-dur='1.2'>Moi, un faux « tonton »…</span></div></div>"
+  }
+ ],
+ "lines": [
+  {
+   "who": "naif",
+   "start": 0.25,
+   "end": 5.468,
+   "text": "Frérot, regarde ! Mon patron m'appelle en visio : il veut un virement urgent, et c'est confidentiel !"
+  },
+  {
+   "who": "expert",
+   "start": 5.748,
+   "end": 17.355,
+   "text": "Pose ce téléphone. Aux États-Unis, trois hommes viennent d'être inculpés : avec l'IA, ils imitaient la voix et le visage de patrons. Cent vingt-neuf millions de dollars volés."
+  },
+  {
+   "who": "naif",
+   "start": 17.635,
+   "end": 20.008,
+   "text": "Mais… c'est sa voix, c'est sa tête !"
+  },
+  {
+   "who": "expert",
+   "start": 20.288,
+   "end": 35.764,
+   "text": "C'est exactement le piège. Trois réflexes. Un : urgence plus secret, c'est le signal d'alarme. Deux : tu raccroches, et tu rappelles ton patron sur son vrai numéro. Trois : en famille comme au boulot, ayez un mot de code que l'IA ne peut pas deviner."
+  },
+  {
+   "who": "naif",
+   "start": 36.044,
+   "end": 38.404,
+   "text": "Un mot de code… genre « attiéké » ?"
+  },
+  {
+   "who": "expert",
+   "start": 38.684,
+   "end": 41.315,
+   "text": "Pas si tu le dis sur TikTok."
+  },
+  {
+   "who": "expert",
+   "start": 41.595,
+   "end": 44.859,
+   "text": "Et toi, t'as déjà reçu un appel louche ? Raconte en commentaire."
+  }
+ ]
+}

@@ -37,3 +37,10 @@ CTA : Et vous, vous protégez votre admin comment ?
 - **L'expert** : chemise bleu marine + pantalon beige, doigt levé (« Note. ») → `assets/perso_bleu_cutout.png` (source `assets/perso_bleu.png`), en pied.
 - Les deux personnages se répondent : celui qui parle est au premier plan (plus grand, net), l'autre se réduit/s'estompe sur le côté. Gros plan (zoom sur le visage) pour les punchlines.
 - 2 voix ElevenLabs différentes (à choisir via creative_list_voices, fr, male, young) : naïf = voix enjouée/naïve, expert = voix posée/blasée. Garder les mêmes voix d'un épisode à l'autre une fois choisies (noter les voice_id ici).
+
+## Implémentation (moteur)
+- Gabarit : `"template": "template_dialogue.html"` (fond crème, violet #7C3AED, onglets d'étapes `steps:[{label,start}]`).
+- `characters: {naif:{img,label}, expert:{img,label}}`, `lines:[{who,start,end,text}]` (celui qui parle a son étiquette + rebond), chaque scène a `cast:{naif:{x,h,o}, expert:{x,h,o}}` (interpolé). Mettre x≈1300 pour sortir un perso du cadre.
+- Voix retenues : naïf = `qGwq3bbZd3aOEpsBcuc6` (David, accent ivoirien), expert = `mQS95w8LbLFsF6QihxDH` (Dave - Narrateur Pro). Modèle eleven_v4, 1 prise par réplique.
+- Assemblage : une génération par réplique, puis script d'assemblage (trim silences, 0,28 s entre répliques, timings des mots par segments de parole) — voir episodes/2026-11-20 (lines.json, words.json).
+- Attention aux chevauchements : avec 3 cartes `.item` + titre, garder l'expert ≤ 800 px de haut.

@@ -35,7 +35,10 @@ function levels() {
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
   await page.goto('file://' + path.join(__dirname, episode.template || 'template.html'));
-  await page.evaluate(d => window.setup(d), { episode, words, levels: levels(), fps: FPS, duration, avatar });
+  const chars = {};
+  for (const [k, c] of Object.entries(episode.characters || {}))
+    chars[k] = { label: c.label, src: 'data:image/png;base64,' + fs.readFileSync(path.join(root, c.img)).toString('base64') };
+  await page.evaluate(d => window.setup(d), { episode, words, levels: levels(), fps: FPS, duration, avatar, chars });
   await page.evaluate(() => { window.render(1); return document.fonts.ready; });
 
   if (previewArg > -1) {
