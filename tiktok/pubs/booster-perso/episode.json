@@ -1,0 +1,190 @@
+{
+ "date": "2026-11-21",
+ "format": "dialogue (pub)",
+ "template": "template_dialogue.html",
+ "topic": "Pub Booster Perso (booster.perso.bf)",
+ "output": "pub_booster-perso.mp4",
+ "voices": {
+  "naif": "qGwq3bbZd3aOEpsBcuc6 (David)",
+  "expert": "mQS95w8LbLFsF6QihxDH (Dave - Narrateur Pro)"
+ },
+ "css": "#tabs{gap:8px;left:24px;right:24px}#tabs div{font-size:21px;padding:9px 11px;border-width:3px} .row-c{display:flex;align-items:center;gap:20px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:12px 18px;margin-bottom:20px} .row-c .n{flex:none;width:64px;height:64px;background:#7C3AED;color:#fff;display:grid;place-items:center;font-weight:900;font-size:30px} .row-c .k{font-weight:900;font-size:30px;text-transform:uppercase;width:210px;flex:none} .chip{display:inline-block;border:3px solid #16131C;padding:6px 12px;font-weight:800;font-size:24px;margin-right:8px;background:#fff} .chip.on{background:#16131C;color:#fff} .url{display:flex;align-items:center;gap:14px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:14px 20px;font-weight:800;font-size:34px;margin:22px 0 26px} .url i{font-style:normal} .pay{background:#FFB300;color:#16131C;font-weight:900;font-size:28px;padding:10px 16px;border:3px solid #16131C;text-transform:uppercase} .bar{height:28px;border:4px solid #16131C;background:#fff;margin-top:18px;position:relative} .bar i{position:absolute;left:0;top:0;bottom:0;background:#7C3AED} .live{display:inline-block;background:#FF2D55;color:#fff;font-weight:900;font-size:40px;padding:8px 18px;border:4px solid #16131C} .brand{font-weight:900;font-size:110px;line-height:.95;letter-spacing:-3px;text-transform:uppercase}",
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Moi"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "Le pote"
+  }
+ },
+ "steps": [
+  {
+   "label": "1 · Réseau",
+   "start": 14.24
+  },
+  {
+   "label": "2 · Service",
+   "start": 16.36
+  },
+  {
+   "label": "3 · Lien",
+   "start": 18.38
+  },
+  {
+   "label": "4 · Quantité",
+   "start": 20.16
+  },
+  {
+   "label": "5 · Paiement",
+   "start": 22.25
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 5.8,
+   "cast": {
+    "naif": {
+     "x": 540,
+     "h": 900
+    },
+    "expert": {
+     "x": 1320,
+     "h": 980
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Le problème</span><div class='card' data-at='0.1' style='margin-top:26px;padding:34px 36px'><div style='display:flex;align-items:center;justify-content:space-between'><span class='live'>● LIVE</span><span style='font-size:70px'>🔒</span></div><div style='font-weight:900;font-size:50px;text-transform:uppercase;margin-top:22px;line-height:1.05'>Il faut <b>1 000 abonnés</b><br>pour lancer un live</div><div class='bar' data-at='2.6'><i style='width:30%'></i></div><div style='font-weight:800;font-size:32px;margin-top:12px' data-at='2.8'>Moi : <b>300</b> / 1 000 😩</div></div>"
+  },
+  {
+   "start": 5.8,
+   "end": 9.6,
+   "cast": {
+    "naif": {
+     "x": 260,
+     "h": 820
+    },
+    "expert": {
+     "x": 790,
+     "h": 980
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:70px;font-size:80px'>Tu connais<br><b>Booster Perso ?</b></div><div class='think' data-at='2.8' style='left:150px;top:400px'>?</div>"
+  },
+  {
+   "start": 9.6,
+   "end": 24.6,
+   "cast": {
+    "naif": {
+     "x": 150,
+     "h": 520,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 900,
+     "h": 680
+    }
+   },
+   "html": "<span class='tag'>Comment ça marche</span><div class='url' data-at='1.4' data-anim='drop'><i>🔒</i><span data-type='1.7' data-dur='1.1'>booster.perso.bf</span></div><div class='row-c' data-at='4.6' data-anim='slide'><div class='n'>1</div><div class='k'>Réseau</div><div><span class='chip on'>TikTok</span><span class='chip'>Facebook</span><span class='chip'>Insta</span></div></div><div class='row-c' data-at='6.7' data-anim='slide'><div class='n'>2</div><div class='k'>Service</div><div><span class='chip on'>Abonnés</span><span class='chip'>…</span></div></div><div class='row-c' data-at='8.7' data-anim='slide'><div class='n'>3</div><div class='k'>Ton lien</div><div style='font-weight:700;font-size:26px;color:#555;border:3px solid #16131C;padding:6px 12px;min-width:330px'><span data-type='9.0' data-dur='1.0'>tiktok.com/@toncompte</span></div></div><div class='row-c' data-at='10.5' data-anim='slide'><div class='n'>4</div><div class='k'>Quantité</div><div style='font-weight:900;font-size:44px'><b>1 000</b></div></div><div class='row-c' data-at='12.6' data-anim='slide'><div class='n'>5</div><div class='k'>Paiement</div><span class='pay'>📱 Mobile Money</span></div>"
+  },
+  {
+   "start": 24.6,
+   "end": 30.2,
+   "cast": {
+    "naif": {
+     "x": 290,
+     "h": 860
+    },
+    "expert": {
+     "x": 800,
+     "h": 900
+    }
+   },
+   "html": "<span class='tag'>Tous tes réseaux</span><div class='title'>Un seul site,<br><b>tous tes comptes</b></div><div class='gap'></div><div class='row' style='justify-content:center;gap:28px'><div class='tile' data-at='2.1' style='width:290px;height:150px;font-size:34px'>TikTok</div><div class='tile' data-at='2.8' style='width:290px;height:150px;font-size:34px'>Facebook</div><div class='tile' data-at='3.5' style='width:290px;height:150px;font-size:34px'>Instagram</div></div>"
+  },
+  {
+   "start": 30.2,
+   "end": 32.05,
+   "cast": {
+    "naif": {
+     "x": 400,
+     "h": 960
+    },
+    "expert": {
+     "x": 880,
+     "h": 820,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='center' style='margin-top:60px'><span class='live' data-at='0.05' style='font-size:90px;padding:18px 40px'>● LIVE</span></div><div class='center' style='margin-top:40px'><span class='sticker' data-at='0.5' data-rot='-4'>Mes lives, j'arrive 🚀</span></div>"
+  },
+  {
+   "start": 32.05,
+   "end": 38.0,
+   "cast": {
+    "naif": {
+     "x": 240,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 830,
+     "h": 800
+    }
+   },
+   "html": "<div class='card center' data-at='0.05' style='margin-top:10px;padding:40px 30px'><div class='brand'>Booster<br><b>Perso</b></div><div style='font-weight:800;font-size:30px;margin-top:18px;letter-spacing:1px'>TIKTOK · FACEBOOK · INSTAGRAM</div></div><div class='center' style='margin-top:36px'><span class='btn' data-at='0.6' style='font-size:52px;padding:22px 40px;text-transform:none'>booster.perso.bf</span></div><div class='center' style='margin-top:30px'><span class='pay' data-at='1.6' style='font-size:34px'>📱 Paiement Mobile Money</span></div>"
+  }
+ ],
+ "lines": [
+  {
+   "who": "naif",
+   "start": 0.25,
+   "end": 5.626,
+   "text": "Frérot, j'en ai marre ! Il me faut mille abonnés pour lancer mes lives… et je suis bloqué à trois cents."
+  },
+  {
+   "who": "expert",
+   "start": 5.906,
+   "end": 8.291,
+   "text": "Attends… tu connais pas Booster Perso ?"
+  },
+  {
+   "who": "naif",
+   "start": 8.571,
+   "end": 9.45,
+   "text": "Booster quoi ?"
+  },
+  {
+   "who": "expert",
+   "start": 9.73,
+   "end": 24.45,
+   "text": "Booster Perso ! Tu vas sur booster.perso.bf. Un : tu choisis ta plateforme. Deux : le type de service. Trois : tu colles ton lien. Quatre : tu prends la quantité que tu veux. Et tu payes par Mobile Money. C'est tout."
+  },
+  {
+   "who": "naif",
+   "start": 24.73,
+   "end": 26.426,
+   "text": "Même pour Facebook et Instagram ?"
+  },
+  {
+   "who": "expert",
+   "start": 26.706,
+   "end": 30.046,
+   "text": "TikTok, Facebook, Instagram… tout y est."
+  },
+  {
+   "who": "naif",
+   "start": 30.326,
+   "end": 31.854,
+   "text": "Mes lives, j'arrive !"
+  },
+  {
+   "who": "expert",
+   "start": 32.134,
+   "end": 36.592,
+   "text": "booster.perso.bf. Booste ton compte, dès aujourd'hui."
+  }
+ ],
+ "stepsEnd": 24.6
+}

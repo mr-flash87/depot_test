@@ -108,6 +108,7 @@ const AV_DEFAULT={x:540,h:900};
 
 function setup(d){
   EP=d.episode;WORDS=d.words;LEVELS=d.levels;FPS=d.fps;DUR=d.duration;
+  if(EP.css){const st=document.createElement('style');st.textContent=EP.css;document.head.appendChild(st)}
   const host0=document.getElementById('chars'); const loads=[];
   CH={}; Object.entries(d.chars).forEach(([k,c])=>{const el=document.createElement('div');el.className='char';
     const im=document.createElement('img');im.src=c.src;el.appendChild(im);const tg=document.createElement('div');tg.className='who';tg.textContent=c.label||k;el.appendChild(tg);
@@ -174,6 +175,7 @@ function render(t){
     c.im.style.filter=(talking||!spk?'':'saturate(.75) brightness(.97) ')+getComputedStyle(c.im).filter.replace(/saturate\([^)]*\)|brightness\([^)]*\)/g,'');
     c.tg.style.opacity=talking?1:0; c.tg.style.left=(w/2-60)+'px'; c.tg.style.top=(-52)+'px';
   });
+  document.getElementById('tabs').style.opacity=(EP.stepsEnd&&t>EP.stepsEnd)?Math.max(0,1-(t-EP.stepsEnd)/0.3):1;
   (EP.steps||[]).forEach((st,i,a)=>{const nx=a[i+1];st.el.className=(t>=st.start&&(!nx||t<nx.start))?'on':(t>=st.start?'done':'')});
 
   // captions
