@@ -40,3 +40,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 | Date | Angle | Format | Fichier |
 |------|-------|--------|---------|
 | 2026-11-21 | 1. Bloqué avant 1 000 abonnés pour les lives | Sketch 2 persos | pub_booster-perso*.mp4 |
+| 2026-11-21 (matin) | 4. Idées reçues (mot de passe, carte, inscription) | Explainer 1 voix, vrai/faux | 2026-11-21/bp_2026-11-21_idees-recues*.mp4 |
