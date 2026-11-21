@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-21",
+ "format": "explainer",
+ "topic": "Muse (Meta) a lu des messages Signal via les notifications Android — enquête Reuters",
+ "category": "Vie privée / applis",
+ "output": "assane_techia_2026-11-21_meta-muse-notifications.mp4",
+ "sources": [
+  "https://www.ibtimes.co.uk/meta-muse-ai-signal-messages-bank-balances-1833200",
+  "https://cryptobriefing.com/meta-muse-ai-privacy-staff-alarms/",
+  "https://thedeepdive.ca/metas-muse-ai-retrieved-encrypted-signal-chats-without-a-signal-connector/"
+ ],
+ "scenes": [
+  {"start": 0.0, "end": 4.3, "avatar": {"x": 540, "h": 900},
+   "html": "<span class='tag' data-at='0'>Vie privée</span><div class='title xl' data-at='0.05' style='margin-top:40px'>Ton IA lit<br><b>tes messages ?</b></div><div class='card' data-at='2.8' data-anim='drop' style='margin-top:36px;padding:22px 28px;display:flex;align-items:center;gap:20px'><span class='ic' style='width:64px'><i data-icon='bell'></i></span><div><div style='font-weight:800;font-size:26px;color:#777'>SIGNAL · maintenant</div><div style='font-weight:700;font-size:34px'>« Tu rentres à quelle heure ? »</div></div></div>"},
+  {"start": 4.3, "end": 10.7, "avatar": {"x": 870, "h": 620},
+   "html": "<span class='tag'>Enquête Reuters</span><div class='title'>Muse, l'agent IA<br><b>de Meta</b></div><div class='gap'></div><div class='center'><span class='sticker' data-at='1.1' data-rot='-3' style='font-size:36px'>Reuters × Signal × AI Now</span></div><div class='gap'></div><div class='item' data-at='3.7' data-anim='slide'><i data-icon='robot'></i><div class='t'>A lu des messages Signal<small>sur Android, pendant les tests</small></div></div>"},
+  {"start": 10.7, "end": 19.0, "avatar": {"x": 870, "h": 600},
+   "html": "<span class='tag'>Comment ?</span><div class='title'>Pas besoin de<br><b>casser le code</b></div><div class='gap'></div><div class='item' data-at='0.6' data-anim='slide'><div class='n'>✕</div><div class='t'><span class='strike' data-strike='1.2'>Casser le chiffrement</span></div></div><div class='item' data-at='2.2' data-anim='slide'><div class='n'>✓</div><i data-icon='bell'></i><div class='t'>Via les notifications<small>avec l'accès donné par l'utilisateur</small></div></div><div class='card warn' data-at='6.3' style='padding:20px 26px;font-size:36px;margin-top:10px'><i data-icon='warn'></i><div>Meta conteste certaines accusations</div></div>"},
+  {"start": 19.0, "end": 23.6, "avatar": {"x": 540, "h": 900},
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:90px;font-size:84px'>Notification<br>affichée<br>= <b>texte lu</b></div>"},
+  {"start": 23.6, "end": 28.7, "avatar": {"x": 870, "h": 620},
+   "html": "<span class='tag'>Le réflexe</span><div class='title'>À faire <b>maintenant</b></div><div class='gap'></div><div class='item' data-at='1.0' data-anim='slide'><div class='n'>01</div><div class='t'>Paramètres ⚙️</div></div><div class='item' data-at='1.7' data-anim='slide'><div class='n'>02</div><div class='t'>Accès aux notifications</div></div><div class='item' data-at='3.2' data-anim='slide'><div class='n'>03</div><i data-icon='shield'></i><div class='t'>Retire les applis<small>qui n'en ont pas besoin</small></div></div>"},
+  {"start": 28.7, "end": 34.2, "avatar": {"x": 800, "h": 680},
+   "html": "<span class='tag'>À toi de jouer</span><div class='card' data-at='0.05' style='margin-top:26px;padding:26px 32px'><div style='display:flex;align-items:center;gap:12px;font-weight:800;font-size:24px;letter-spacing:1px'><span class='ic' style='width:38px'><i data-icon='comment'></i></span>COMMENTAIRE</div><div style='font-weight:900;font-size:56px;text-transform:uppercase;line-height:1.05;margin-top:14px'>Tu l'as déjà<br><b>vérifié ?</b></div></div><div style='margin-top:36px'><span class='btn' data-at='1.5' data-anim='slide'>Réponds en commentaire</span></div><div class='card' data-at='2.65' data-anim='drop' style='margin-top:40px;width:640px;display:flex;align-items:center;gap:18px;padding:18px 22px'><span class='ic' style='width:62px'><i data-icon='bell'></i></span><div style='flex:1;font-weight:900;font-size:28px;text-transform:uppercase;line-height:1.1'>Abonne-toi pour<br>l'actu <b>tech chaque matin</b></div><div style='background:#111;color:#fff;font-weight:800;font-size:22px;padding:10px 14px' data-on='3.6'>ABONNÉ ✓</div></div>"}
+ ]
+}

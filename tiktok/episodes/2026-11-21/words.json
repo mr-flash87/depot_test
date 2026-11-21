@@ -1,0 +1,492 @@
+[
+{
+"text": "Ton",
+"start": 0.08,
+"end": 0.24
+},
+{
+"text": "assistant",
+"start": 0.48,
+"end": 0.72
+},
+{
+"text": "IA",
+"start": 0.88,
+"end": 1.12
+},
+{
+"text": "peut",
+"start": 1.16,
+"end": 1.28
+},
+{
+"text": "lire",
+"start": 1.32,
+"end": 1.52
+},
+{
+"text": "tes",
+"start": 1.56,
+"end": 1.6
+},
+{
+"text": "messages",
+"start": 1.68,
+"end": 2.0
+},
+{
+"text": "privés...",
+"start": 2.12,
+"end": 2.8
+},
+{
+"text": "même",
+"start": 2.92,
+"end": 3.04
+},
+{
+"text": "sur",
+"start": 3.12,
+"end": 3.2
+},
+{
+"text": "Signal.",
+"start": 3.28,
+"end": 4.08
+},
+{
+"text": "Selon",
+"start": 4.4,
+"end": 4.64
+},
+{
+"text": "une",
+"start": 4.68,
+"end": 4.72
+},
+{
+"text": "enquête",
+"start": 4.8,
+"end": 5.04
+},
+{
+"text": "de",
+"start": 5.08,
+"end": 5.12
+},
+{
+"text": "Reuters,",
+"start": 5.4,
+"end": 5.84
+},
+{
+"text": "Muse,",
+"start": 5.92,
+"end": 6.48
+},
+{
+"text": "l'agent",
+"start": 6.52,
+"end": 6.8
+},
+{
+"text": "IA",
+"start": 6.88,
+"end": 7.12
+},
+{
+"text": "de",
+"start": 7.2,
+"end": 7.28
+},
+{
+"text": "Meta,",
+"start": 7.44,
+"end": 7.84
+},
+{
+"text": "a",
+"start": 7.88,
+"end": 7.92
+},
+{
+"text": "réussi",
+"start": 8.0,
+"end": 8.32
+},
+{
+"text": "à",
+"start": 8.4,
+"end": 8.44
+},
+{
+"text": "lire",
+"start": 8.48,
+"end": 8.64
+},
+{
+"text": "des",
+"start": 8.68,
+"end": 8.72
+},
+{
+"text": "messages",
+"start": 8.8,
+"end": 9.12
+},
+{
+"text": "Signal",
+"start": 9.36,
+"end": 9.6
+},
+{
+"text": "sur",
+"start": 9.68,
+"end": 9.76
+},
+{
+"text": "Android.",
+"start": 10.0,
+"end": 10.56
+},
+{
+"text": "Comment ?",
+"start": 10.72,
+"end": 11.253
+},
+{
+"text": "Pas",
+"start": 11.307,
+"end": 11.36
+},
+{
+"text": "en",
+"start": 11.44,
+"end": 11.52
+},
+{
+"text": "cassant",
+"start": 11.573,
+"end": 11.76
+},
+{
+"text": "le",
+"start": 11.8,
+"end": 11.84
+},
+{
+"text": "chiffrement :",
+"start": 11.92,
+"end": 12.693
+},
+{
+"text": "en",
+"start": 12.747,
+"end": 12.8
+},
+{
+"text": "passant",
+"start": 12.92,
+"end": 13.2
+},
+{
+"text": "par",
+"start": 13.24,
+"end": 13.28
+},
+{
+"text": "les",
+"start": 13.36,
+"end": 13.44
+},
+{
+"text": "notifications,",
+"start": 13.84,
+"end": 14.4
+},
+{
+"text": "avec",
+"start": 14.52,
+"end": 14.64
+},
+{
+"text": "l'accès",
+"start": 14.68,
+"end": 15.04
+},
+{
+"text": "que",
+"start": 15.08,
+"end": 15.12
+},
+{
+"text": "l'utilisateur",
+"start": 15.2,
+"end": 15.84
+},
+{
+"text": "lui",
+"start": 15.867,
+"end": 15.92
+},
+{
+"text": "avait",
+"start": 15.96,
+"end": 16.16
+},
+{
+"text": "donné.",
+"start": 16.24,
+"end": 16.8
+},
+{
+"text": "Meta",
+"start": 17.0,
+"end": 17.2
+},
+{
+"text": "conteste",
+"start": 17.32,
+"end": 17.76
+},
+{
+"text": "certaines",
+"start": 17.84,
+"end": 18.08
+},
+{
+"text": "accusations.",
+"start": 18.16,
+"end": 18.96
+},
+{
+"text": "Mais",
+"start": 19.04,
+"end": 19.12
+},
+{
+"text": "retiens",
+"start": 19.2,
+"end": 19.44
+},
+{
+"text": "ça :",
+"start": 19.52,
+"end": 19.92
+},
+{
+"text": "une",
+"start": 20.0,
+"end": 20.08
+},
+{
+"text": "IA",
+"start": 20.12,
+"end": 20.32
+},
+{
+"text": "qui",
+"start": 20.4,
+"end": 20.48
+},
+{
+"text": "lit",
+"start": 20.56,
+"end": 20.72
+},
+{
+"text": "tes",
+"start": 20.76,
+"end": 20.8
+},
+{
+"text": "notifications",
+"start": 20.88,
+"end": 21.6
+},
+{
+"text": "lit",
+"start": 21.84,
+"end": 22.08
+},
+{
+"text": "tout",
+"start": 22.16,
+"end": 22.24
+},
+{
+"text": "ce",
+"start": 22.32,
+"end": 22.4
+},
+{
+"text": "qui",
+"start": 22.44,
+"end": 22.48
+},
+{
+"text": "s'affiche",
+"start": 22.52,
+"end": 22.88
+},
+{
+"text": "dessus.",
+"start": 23.0,
+"end": 23.52
+},
+{
+"text": "Le",
+"start": 23.56,
+"end": 23.6
+},
+{
+"text": "réflexe :",
+"start": 23.68,
+"end": 24.507
+},
+{
+"text": "Paramètres,",
+"start": 24.613,
+"end": 25.12
+},
+{
+"text": "accès",
+"start": 25.28,
+"end": 25.44
+},
+{
+"text": "aux",
+"start": 25.48,
+"end": 25.52
+},
+{
+"text": "notifications,",
+"start": 25.92,
+"end": 26.48
+},
+{
+"text": "et",
+"start": 26.52,
+"end": 26.56
+},
+{
+"text": "tu",
+"start": 26.64,
+"end": 26.72
+},
+{
+"text": "retires",
+"start": 26.8,
+"end": 27.04
+},
+{
+"text": "les",
+"start": 27.12,
+"end": 27.2
+},
+{
+"text": "applis",
+"start": 27.28,
+"end": 27.52
+},
+{
+"text": "qui",
+"start": 27.56,
+"end": 27.6
+},
+{
+"text": "n'en",
+"start": 27.64,
+"end": 27.76
+},
+{
+"text": "ont",
+"start": 27.8,
+"end": 27.84
+},
+{
+"text": "pas",
+"start": 27.92,
+"end": 28.0
+},
+{
+"text": "besoin.",
+"start": 28.08,
+"end": 28.64
+},
+{
+"text": "Tu",
+"start": 28.773,
+"end": 28.8
+},
+{
+"text": "l'as",
+"start": 28.827,
+"end": 28.92
+},
+{
+"text": "déjà",
+"start": 28.96,
+"end": 29.12
+},
+{
+"text": "vérifié,",
+"start": 29.16,
+"end": 29.573
+},
+{
+"text": "toi ?",
+"start": 29.627,
+"end": 30.133
+},
+{
+"text": "Dis-le",
+"start": 30.187,
+"end": 30.32
+},
+{
+"text": "en",
+"start": 30.36,
+"end": 30.4
+},
+{
+"text": "commentaire,",
+"start": 30.48,
+"end": 31.12
+},
+{
+"text": "et",
+"start": 31.2,
+"end": 31.28
+},
+{
+"text": "abonne-toi",
+"start": 31.36,
+"end": 31.84
+},
+{
+"text": "pour",
+"start": 31.92,
+"end": 32.0
+},
+{
+"text": "l'actu",
+"start": 32.027,
+"end": 32.28
+},
+{
+"text": "tech",
+"start": 32.32,
+"end": 32.64
+},
+{
+"text": "chaque",
+"start": 32.68,
+"end": 32.8
+},
+{
+"text": "matin.",
+"start": 32.88,
+"end": 33.36
+}
+]
