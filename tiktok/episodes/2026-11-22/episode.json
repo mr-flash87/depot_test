@@ -1,0 +1,188 @@
+{
+ "date": "2026-11-22",
+ "format": "dialogue",
+ "template": "template_dialogue.html",
+ "topic": "Gemini Tasks devient gratuit (6 pays) : l'agent IA appelle les commerces, attend en ligne et réserve (appels US uniquement)",
+ "category": "Outil IA gratuit / agents",
+ "output": "assane_techia_2026-11-22_gemini-tasks.mp4",
+ "sources": [
+  "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "https://www.techrepublic.com/article/news-google-gemini-tasks-free-six-countries/",
+  "https://www.androidcentral.com/apps-software/ai/google-just-made-its-best-gemini-agent-free-heres-where-you-can-get-it"
+ ],
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Le naïf"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "L'expert"
+  }
+ },
+ "steps": [
+  {
+   "label": "1 · Appelle",
+   "start": 12.57
+  },
+  {
+   "label": "2 · Attend",
+   "start": 14.72
+  },
+  {
+   "label": "3 · Réserve",
+   "start": 17.29
+  },
+  {
+   "label": "4 · Ton accord",
+   "start": 21.62
+  }
+ ],
+ "stepsEnd": 24.4,
+ "lines": [
+  {
+   "who": "naif",
+   "start": 0.25,
+   "end": 3.584,
+   "text": "Frérot, ça fait vingt minutes que j'attends en ligne pour réparer ma moto !"
+  },
+  {
+   "who": "expert",
+   "start": 3.864,
+   "end": 9.576,
+   "text": "Aux États-Unis, une IA ferait ça à ta place. Google vient de rendre Gemini Tasks gratuit."
+  },
+  {
+   "who": "naif",
+   "start": 9.856,
+   "end": 10.705,
+   "text": "Gemini quoi ?"
+  },
+  {
+   "who": "expert",
+   "start": 10.985,
+   "end": 24.169,
+   "text": "Un agent IA. Un : il appelle les commerces. Deux : il attend en ligne à ta place. Trois : il compare, et il réserve ton rendez-vous selon ton agenda. Et pour payer, il te demande toujours ton accord."
+  },
+  {
+   "who": "naif",
+   "start": 24.449,
+   "end": 25.414,
+   "text": "Il marche au Burkina ?"
+  },
+  {
+   "who": "expert",
+   "start": 25.694,
+   "end": 30.79,
+   "text": "Pas encore. Gratuit dans six pays seulement, et les appels, c'est aux États-Unis pour l'instant."
+  },
+  {
+   "who": "naif",
+   "start": 31.07,
+   "end": 33.773,
+   "text": "Bon… je retourne attendre."
+  },
+  {
+   "who": "expert",
+   "start": 34.053,
+   "end": 40.155,
+   "text": "Et toi, tu laisserais une IA appeler à ta place ? Dis-le en commentaire, et abonne-toi pour l'actu tech chaque matin."
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0,
+   "end": 3.8,
+   "cast": {
+    "naif": {
+     "x": 540,
+     "h": 920
+    },
+    "expert": {
+     "x": 1320,
+     "h": 1000
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Service client</span><div class='card' data-at='0.1' style='margin-top:26px;padding:30px 34px'><div style='display:flex;align-items:center;gap:20px'><span class='ic' style='width:72px'><i data-icon='phone'></i></span><div><div style='font-weight:800;font-size:26px;color:#777'>EN ATTENTE…</div><div style='font-weight:900;font-size:64px'><b>20:00</b> ⏳</div></div></div><div style='font-weight:700;font-size:30px;margin-top:14px;color:#555'>♪ Votre appel est important pour nous ♪</div></div>"
+  },
+  {
+   "start": 3.8,
+   "end": 10.9,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 800,
+     "h": 960
+    }
+   },
+   "html": "<span class='tag'>Nouveau · Google</span><div class='title xl' data-at='0.05' style='margin-top:40px;font-size:84px'>Gemini Tasks<br><b>devient gratuit</b></div><div class='center' style='margin-top:30px'><span class='sticker' data-at='4.2' data-rot='-3'>Un agent IA</span></div>"
+  },
+  {
+   "start": 10.9,
+   "end": 24.3,
+   "cast": {
+    "naif": {
+     "x": 170,
+     "h": 560,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 870,
+     "h": 660
+    }
+   },
+   "html": "<span class='tag'>Ce qu'il fait</span><div class='title'>Il appelle <b>à ta place</b></div><div class='gap'></div><div class='item' data-at='1.7' data-anim='slide'><div class='n'>01</div><i data-icon='phone'></i><div class='t'>Appelle les commerces</div></div><div class='item' data-at='3.8' data-anim='slide'><div class='n'>02</div><i data-icon='bell'></i><div class='t'>Attend en ligne</div></div><div class='item' data-at='6.4' data-anim='slide'><div class='n'>03</div><i data-icon='shield'></i><div class='t'>Compare &amp; réserve<small>selon ton agenda</small></div></div><div class='item' data-at='10.7' data-anim='slide'><div class='n'>04</div><i data-icon='card'></i><div class='t'>Paiement<small>toujours avec ton accord</small></div></div>"
+  },
+  {
+   "start": 24.3,
+   "end": 31.0,
+   "cast": {
+    "naif": {
+     "x": 300,
+     "h": 860
+    },
+    "expert": {
+     "x": 800,
+     "h": 880
+    }
+   },
+   "html": "<span class='tag'>Disponibilité</span><div class='center' style='margin-top:30px'><span class='sticker' data-at='1.4' data-rot='-3'>🇧🇫 Pas encore</span></div><div class='card' data-at='1.9' style='margin-top:36px;padding:28px 32px'><div style='font-weight:900;font-size:50px;text-transform:uppercase'>Gratuit dans <b>6 pays</b></div><div style='font-weight:700;font-size:30px;color:#555;margin-top:10px'>USA · Canada · Australie · Inde · Japon · Corée</div><div data-at='4.0' style='margin-top:18px;font-weight:900;font-size:34px'>📞 Appels : <b>USA seulement</b></div></div>"
+  },
+  {
+   "start": 31.0,
+   "end": 33.95,
+   "cast": {
+    "naif": {
+     "x": 400,
+     "h": 960
+    },
+    "expert": {
+     "x": 880,
+     "h": 820,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:90px;font-size:82px'>Bon…<br><b>je retourne<br>attendre</b> 😮‍💨</div>"
+  },
+  {
+   "start": 33.95,
+   "end": 41.3,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 680,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 810,
+     "h": 880
+    }
+   },
+   "html": "<span class='tag'>À toi de jouer</span><div class='card' data-at='0.05' style='margin-top:26px;padding:26px 32px'><div style='display:flex;align-items:center;gap:12px;font-weight:800;font-size:24px;letter-spacing:1px'><span class='ic' style='width:38px'><i data-icon='comment'></i></span>COMMENTAIRE</div><div style='font-weight:900;font-size:52px;text-transform:uppercase;line-height:1.05;margin-top:14px'>Tu laisserais une IA<br><b>appeler à ta place ?</b></div></div><div style='margin-top:34px'><span class='btn' data-at='2.3' data-anim='slide'>Dis-le en commentaire</span></div><div class='card' data-at='3.6' style='margin-top:30px;width:600px;box-shadow:8px 8px 0 #111'><div style='padding:16px 20px;font-weight:600;font-size:28px;color:#555;min-height:66px'><span data-type='3.8' data-dur='1.2'>Oui, pour le garage !</span></div></div>"
+  }
+ ]
+}

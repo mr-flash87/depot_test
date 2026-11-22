@@ -1,0 +1,50 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 3.584,
+  "text": "Frérot, ça fait vingt minutes que j'attends en ligne pour réparer ma moto !"
+ },
+ {
+  "who": "expert",
+  "start": 3.864,
+  "end": 9.576,
+  "text": "Aux États-Unis, une IA ferait ça à ta place. Google vient de rendre Gemini Tasks gratuit."
+ },
+ {
+  "who": "naif",
+  "start": 9.856,
+  "end": 10.705,
+  "text": "Gemini quoi ?"
+ },
+ {
+  "who": "expert",
+  "start": 10.985,
+  "end": 24.169,
+  "text": "Un agent IA. Un : il appelle les commerces. Deux : il attend en ligne à ta place. Trois : il compare, et il réserve ton rendez-vous selon ton agenda. Et pour payer, il te demande toujours ton accord."
+ },
+ {
+  "who": "naif",
+  "start": 24.449,
+  "end": 25.414,
+  "text": "Il marche au Burkina ?"
+ },
+ {
+  "who": "expert",
+  "start": 25.694,
+  "end": 30.79,
+  "text": "Pas encore. Gratuit dans six pays seulement, et les appels, c'est aux États-Unis pour l'instant."
+ },
+ {
+  "who": "naif",
+  "start": 31.07,
+  "end": 33.773,
+  "text": "Bon… je retourne attendre."
+ },
+ {
+  "who": "expert",
+  "start": 34.053,
+  "end": 40.155,
+  "text": "Et toi, tu laisserais une IA appeler à ta place ? Dis-le en commentaire, et abonne-toi pour l'actu tech chaque matin."
+ }
+]
