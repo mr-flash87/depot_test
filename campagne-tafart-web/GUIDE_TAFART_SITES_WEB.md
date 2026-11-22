@@ -9,7 +9,7 @@
 
 **Contenu :**
 - **Style :** inspiré de la référence. Fond clair avec une grille, typographie bleue et grasse, icônes 3D générées avec ElevenLabs (mégaphone, globe, ordinateur, boutique mobile, ampoule, fusée, casque, graphique), faisceau de flèches et carte bleue « Moderne / Rapide / Mobile ».
-- **Réalisations montrées :** des captures de vrais sites créés sur Lovable (Agromina, Africard, Boost Social Hub, Pixels Key, CoinsAfrik, CV Pro Afrique, AdGen, Faso Interpay, Media Kit).
+- **Réalisations montrées :** des captures de vrais sites créés sur Lovable (Agromina, Africard, Pixels Key, CoinsAfrik, CV Pro Afrique, Faso Interpay, Media Kit).
 - **Voix off :** ElevenLabs, voix « Tony ». Elle cite Taf'Art, les services et le numéro WhatsApp.
 - **Musique :** afro-house « tech », générée par ElevenLabs et instrumentale.
 
