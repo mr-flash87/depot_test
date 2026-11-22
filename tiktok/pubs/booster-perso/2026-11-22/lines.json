@@ -1,0 +1,44 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 3.177,
+  "text": "Frérot, ton Booster Perso là, ça se commande comment ?"
+ },
+ {
+  "who": "expert",
+  "start": 3.457,
+  "end": 6.072,
+  "text": "Lance le chrono. Soixante secondes, pas plus."
+ },
+ {
+  "who": "expert",
+  "start": 6.352,
+  "end": 21.729,
+  "text": "Un : sur booster.perso.bf, tu choisis ton réseau et ton service. Deux : tu colles le lien public de ton profil ou de ta vidéo. Trois : tu choisis la quantité, et tu vérifies le récapitulatif. Quatre : tu payes en Mobile Money."
+ },
+ {
+  "who": "naif",
+  "start": 22.009,
+  "end": 22.529,
+  "text": "Et après ?"
+ },
+ {
+  "who": "expert",
+  "start": 22.809,
+  "end": 26.034,
+  "text": "Tu gardes ton code de commande, et tu suis ta livraison en ligne."
+ },
+ {
+  "who": "naif",
+  "start": 26.314,
+  "end": 27.758,
+  "text": "Même pas une minute !"
+ },
+ {
+  "who": "expert",
+  "start": 28.038,
+  "end": 30.118,
+  "text": "booster.perso.bf"
+ }
+]

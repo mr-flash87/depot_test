@@ -26,7 +26,7 @@ Personnages : naïf = assets/avatar_cutout.png (voix David `qGwq3bbZd3aOEpsBcuc6
 5. Suivi de commande en direct (page /suivi, barre de progression)
 6. Parrainage : gagne en invitant tes amis (/parrainage)
 7. Deviens revendeur / partenaire (/partenaire, API)
-8. Commerçant / boutique qui booste sa page Facebook avant une promo
+8. Commerçant / boutique qui booste sa page Facebook avant une promo (⚠ le site précise qu'un boost ne garantit pas plus de clients : ne jamais promettre de ventes)
 9. Artiste : booster les vues de son clip YouTube / Spotify
 10. Compteur avant/après animé (sans promettre de résultat précis)
 11. « Attendre 6 mois ou lancer ton compte aujourd'hui ? »
@@ -41,3 +41,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 |------|-------|--------|---------|
 | 2026-11-21 | 1. Bloqué avant 1 000 abonnés pour les lives | Sketch 2 persos | pub_booster-perso*.mp4 |
 | 2026-11-21 (matin) | 4. Idées reçues (mot de passe, carte, inscription) | Explainer 1 voix, vrai/faux | 2026-11-21/bp_2026-11-21_idees-recues*.mp4 |
+| 2026-11-22 | 2. Tuto express « commander en 60 s » | Sketch 2 persos chrono | 2026-11-22/bp_2026-11-22_commander-60s*.mp4 |
