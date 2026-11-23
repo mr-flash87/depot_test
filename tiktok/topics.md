@@ -7,8 +7,9 @@
 | 2026-11-20 | Deepfakes de patrons : 3 inculpés, 129 M$ volés (DOJ, 6 nov.) + 3 réflexes anti-arnaque | Cybersécurité / arnaque IA | Dialogue naïf vs expert |
 | 2026-11-21 | Muse (Meta) a lu des messages Signal via les notifications Android (enquête Reuters) + réflexe accès aux notifications | Vie privée / applis | Explainer à cartes |
 | 2026-11-22 | Gemini Tasks gratuit (6 pays) : l'agent IA appelle les commerces et réserve (appels US uniquement) | Outil IA gratuit / agents | Dialogue naïf vs expert |
+| 2026-11-23 | Bourse tech en correction (Nasdaq -10 % du record d'octobre), peur d'une bulle IA après les midterms | Business / argent de la tech | Explainer à cartes |
 
-**Prochain format : explainer à cartes** (alterner explainer / dialogue).
+**Prochain format : dialogue naïf vs expert** (alterner explainer / dialogue).
 
 ## Catégories à faire tourner
 Nouveau modèle IA · Outil IA gratuit/astuce pratique · Smartphone/hardware · Cybersécurité/arnaque · Business/argent des géants de la tech · IA en Afrique · Robotique · Réseaux sociaux/apps · Science/espace · Polémique/régulation · Gaming/tech · Tuto « 3 outils pour… »

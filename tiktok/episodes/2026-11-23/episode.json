@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-23",
+ "format": "explainer",
+ "topic": "Bourse tech en correction : le Nasdaq à -10 % de son record, peur d'une bulle IA après les midterms",
+ "category": "Business / argent de la tech",
+ "output": "assane_techia_2026-11-23_bulle-ia.mp4",
+ "sources": [
+  "https://www.latintimes.com/wall-streets-ai-bet-faces-reckoning-nasdaq-correction-deepens-after-nvidia-fallout-601517",
+  "https://ground.news/article/4f0551d9-3efb-432f-99fd-4dbbbf4f9d41",
+  "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+ ],
+ "scenes": [
+  {"start": 0.0, "end": 3.8, "avatar": {"x": 540, "h": 900},
+   "html": "<span class='tag' data-at='0'>Bourse tech</span><div class='center' data-at='0.05' style='margin-top:20px;font-size:150px;line-height:1'>📉</div><div class='title xl' data-at='0.2' style='margin-top:10px;font-size:80px'>Des milliers de<br>milliards <b>évaporés</b></div>"},
+  {"start": 3.8, "end": 9.5, "avatar": {"x": 870, "h": 620},
+   "html": "<span class='tag'>Nasdaq</span><div class='card center' data-at='0.1' style='margin-top:26px;padding:40px'><div style='font-weight:900;font-size:200px;line-height:1;color:#E5243B'>-10 %</div><div style='font-weight:800;font-size:36px;margin-top:10px'>depuis le record d'octobre</div></div><div class='center' style='margin-top:36px'><span class='sticker' data-at='1.4' data-rot='-4'>« Correction »</span></div>"},
+  {"start": 9.5, "end": 19.9, "avatar": {"x": 870, "h": 600},
+   "html": "<span class='tag'>Pourquoi ?</span><div class='title'>La peur s'installe <b>à Wall Street</b></div><div class='gap'></div><div class='item' data-at='0.8' data-anim='slide'><div class='n'>01</div><i data-icon='globe'></i><div class='t'>Élections de mi-mandat<small>aux États-Unis</small></div></div><div class='item' data-at='3.3' data-anim='slide'><div class='n'>02</div><i data-icon='warn'></i><div class='t'>Règles plus dures ?<small>sur les data centers de l'IA</small></div></div><div class='item' data-at='8.5' data-anim='slide'><div class='n'>03</div><i data-icon='robot'></i><div class='t'>Les actions IA chutent</div></div>"},
+  {"start": 19.9, "end": 24.9, "avatar": {"x": 540, "h": 820},
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:30px;font-size:84px'>La bulle<br><b>éclate ?</b></div><div class='gap'></div><div class='row' style='justify-content:center;gap:40px'><div class='tile' data-at='1.5' style='width:330px;height:230px;font-size:34px'><span style='font-size:80px'>💥</span>Bulle</div><div class='tile on' data-at='3.0' style='width:330px;height:230px;font-size:34px'><span style='font-size:80px'>🔧</span>Réajustement</div></div>"},
+  {"start": 24.9, "end": 31.2, "avatar": {"x": 870, "h": 620},
+   "html": "<span class='tag'>Selon des analystes JPMorgan</span><div class='gap'></div><div class='item' data-at='1.9' data-anim='slide'><div class='n'>✓</div><div class='t'>L'IA ne disparaît pas</div></div><div class='item' data-at='4.1' data-anim='slide'><div class='n'>💸</div><div class='t'>Mais plus chère</div></div><div class='item' data-at='5.2' data-anim='slide'><div class='n'>🐢</div><div class='t'>Et moins rapide</div></div>"},
+  {"start": 31.2, "end": 36.8, "avatar": {"x": 800, "h": 680},
+   "html": "<span class='tag'>À toi de jouer</span><div class='card' data-at='0.05' style='margin-top:26px;padding:26px 32px'><div style='display:flex;align-items:center;gap:12px;font-weight:800;font-size:24px;letter-spacing:1px'><span class='ic' style='width:38px'><i data-icon='comment'></i></span>COMMENTAIRE</div><div style='font-weight:900;font-size:56px;text-transform:uppercase;line-height:1.05;margin-top:14px'>Tu crois à la<br><b>bulle IA ?</b></div></div><div style='margin-top:36px'><span class='btn' data-at='1.8' data-anim='slide'>Réponds en commentaire</span></div><div class='card' data-at='2.9' data-anim='drop' style='margin-top:40px;width:640px;display:flex;align-items:center;gap:18px;padding:18px 22px'><span class='ic' style='width:62px'><i data-icon='bell'></i></span><div style='flex:1;font-weight:900;font-size:28px;text-transform:uppercase;line-height:1.1'>Abonne-toi pour<br>l'actu <b>tech chaque matin</b></div><div style='background:#111;color:#fff;font-weight:800;font-size:22px;padding:10px 14px' data-on='3.8'>ABONNÉ ✓</div></div>"}
+ ]
+}

@@ -1,0 +1,562 @@
+[
+{
+"text": "Des",
+"start": 0.08,
+"end": 0.24
+},
+{
+"text": "milliers",
+"start": 0.32,
+"end": 0.72
+},
+{
+"text": "de",
+"start": 0.8,
+"end": 0.96
+},
+{
+"text": "milliards",
+"start": 1.08,
+"end": 1.44
+},
+{
+"text": "de",
+"start": 1.48,
+"end": 1.52
+},
+{
+"text": "dollars",
+"start": 1.6,
+"end": 2.0
+},
+{
+"text": "évaporés",
+"start": 2.08,
+"end": 2.56
+},
+{
+"text": "en",
+"start": 2.64,
+"end": 2.72
+},
+{
+"text": "quelques",
+"start": 2.8,
+"end": 3.04
+},
+{
+"text": "jours.",
+"start": 3.12,
+"end": 3.68
+},
+{
+"text": "La",
+"start": 3.92,
+"end": 4.0
+},
+{
+"text": "bourse",
+"start": 4.04,
+"end": 4.24
+},
+{
+"text": "tech",
+"start": 4.32,
+"end": 4.48
+},
+{
+"text": "américaine",
+"start": 4.56,
+"end": 4.96
+},
+{
+"text": "est",
+"start": 5.04,
+"end": 5.12
+},
+{
+"text": "en",
+"start": 5.16,
+"end": 5.2
+},
+{
+"text": "correction :",
+"start": 5.28,
+"end": 5.96
+},
+{
+"text": "le",
+"start": 6.0,
+"end": 6.08
+},
+{
+"text": "Nasdaq",
+"start": 6.12,
+"end": 6.48
+},
+{
+"text": "a",
+"start": 6.56,
+"end": 6.64
+},
+{
+"text": "perdu",
+"start": 6.72,
+"end": 6.96
+},
+{
+"text": "plus",
+"start": 7.04,
+"end": 7.12
+},
+{
+"text": "de",
+"start": 7.24,
+"end": 7.36
+},
+{
+"text": "dix",
+"start": 7.4,
+"end": 7.52
+},
+{
+"text": "pour",
+"start": 7.6,
+"end": 7.68
+},
+{
+"text": "cent",
+"start": 7.76,
+"end": 7.92
+},
+{
+"text": "depuis",
+"start": 8.0,
+"end": 8.2
+},
+{
+"text": "son",
+"start": 8.24,
+"end": 8.32
+},
+{
+"text": "record",
+"start": 8.4,
+"end": 8.64
+},
+{
+"text": "d'octobre.",
+"start": 8.667,
+"end": 9.44
+},
+{
+"text": "Pourquoi ?",
+"start": 9.52,
+"end": 10.213
+},
+{
+"text": "Après",
+"start": 10.267,
+"end": 10.4
+},
+{
+"text": "les",
+"start": 10.44,
+"end": 10.48
+},
+{
+"text": "élections",
+"start": 10.56,
+"end": 10.88
+},
+{
+"text": "de",
+"start": 10.96,
+"end": 11.04
+},
+{
+"text": "mi-mandat,",
+"start": 11.08,
+"end": 11.76
+},
+{
+"text": "les",
+"start": 11.8,
+"end": 11.84
+},
+{
+"text": "investisseurs",
+"start": 11.92,
+"end": 12.48
+},
+{
+"text": "craignent",
+"start": 12.52,
+"end": 12.8
+},
+{
+"text": "des",
+"start": 12.84,
+"end": 12.88
+},
+{
+"text": "règles",
+"start": 12.96,
+"end": 13.28
+},
+{
+"text": "plus",
+"start": 13.4,
+"end": 13.52
+},
+{
+"text": "dures",
+"start": 13.56,
+"end": 13.76
+},
+{
+"text": "sur",
+"start": 13.84,
+"end": 13.92
+},
+{
+"text": "les",
+"start": 14.0,
+"end": 14.08
+},
+{
+"text": "data",
+"start": 14.2,
+"end": 14.32
+},
+{
+"text": "centers,",
+"start": 14.4,
+"end": 14.96
+},
+{
+"text": "ces",
+"start": 15.04,
+"end": 15.12
+},
+{
+"text": "usines",
+"start": 15.2,
+"end": 15.52
+},
+{
+"text": "géantes",
+"start": 15.6,
+"end": 15.92
+},
+{
+"text": "qui",
+"start": 16.0,
+"end": 16.08
+},
+{
+"text": "font",
+"start": 16.16,
+"end": 16.24
+},
+{
+"text": "tourner",
+"start": 16.32,
+"end": 16.48
+},
+{
+"text": "l'IA.",
+"start": 16.56,
+"end": 17.12
+},
+{
+"text": "Résultat :",
+"start": 17.173,
+"end": 17.947
+},
+{
+"text": "les",
+"start": 17.973,
+"end": 18.0
+},
+{
+"text": "actions",
+"start": 18.08,
+"end": 18.4
+},
+{
+"text": "liées",
+"start": 18.48,
+"end": 18.64
+},
+{
+"text": "à",
+"start": 18.68,
+"end": 18.72
+},
+{
+"text": "l'IA",
+"start": 18.76,
+"end": 19.04
+},
+{
+"text": "chutent.",
+"start": 19.2,
+"end": 19.92
+},
+{
+"text": "Alors,",
+"start": 19.96,
+"end": 20.4
+},
+{
+"text": "la",
+"start": 20.44,
+"end": 20.48
+},
+{
+"text": "bulle",
+"start": 20.56,
+"end": 20.68
+},
+{
+"text": "éclate ?",
+"start": 20.72,
+"end": 21.387
+},
+{
+"text": "Pour",
+"start": 21.413,
+"end": 21.44
+},
+{
+"text": "certains,",
+"start": 21.52,
+"end": 22.16
+},
+{
+"text": "oui.",
+"start": 22.28,
+"end": 22.72
+},
+{
+"text": "Pour",
+"start": 22.76,
+"end": 22.8
+},
+{
+"text": "d'autres,",
+"start": 22.88,
+"end": 23.36
+},
+{
+"text": "c'est",
+"start": 23.413,
+"end": 23.52
+},
+{
+"text": "juste",
+"start": 23.6,
+"end": 23.84
+},
+{
+"text": "un",
+"start": 23.88,
+"end": 23.92
+},
+{
+"text": "réajustement.",
+"start": 24.0,
+"end": 24.88
+},
+{
+"text": "Selon",
+"start": 24.96,
+"end": 25.12
+},
+{
+"text": "des",
+"start": 25.2,
+"end": 25.28
+},
+{
+"text": "analystes",
+"start": 25.4,
+"end": 25.76
+},
+{
+"text": "de",
+"start": 25.8,
+"end": 25.84
+},
+{
+"text": "JPMorgan,",
+"start": 25.92,
+"end": 26.8
+},
+{
+"text": "l'IA",
+"start": 26.84,
+"end": 27.12
+},
+{
+"text": "ne",
+"start": 27.16,
+"end": 27.2
+},
+{
+"text": "va",
+"start": 27.32,
+"end": 27.44
+},
+{
+"text": "pas",
+"start": 27.48,
+"end": 27.52
+},
+{
+"text": "disparaître...",
+"start": 27.64,
+"end": 28.4
+},
+{
+"text": "mais",
+"start": 28.44,
+"end": 28.64
+},
+{
+"text": "elle",
+"start": 28.72,
+"end": 28.8
+},
+{
+"text": "va",
+"start": 28.88,
+"end": 28.96
+},
+{
+"text": "coûter",
+"start": 29.0,
+"end": 29.28
+},
+{
+"text": "plus",
+"start": 29.4,
+"end": 29.52
+},
+{
+"text": "cher",
+"start": 29.72,
+"end": 29.92
+},
+{
+"text": "et",
+"start": 29.96,
+"end": 30.0
+},
+{
+"text": "avancer",
+"start": 30.08,
+"end": 30.4
+},
+{
+"text": "moins",
+"start": 30.44,
+"end": 30.56
+},
+{
+"text": "vite.",
+"start": 30.64,
+"end": 31.2
+},
+{
+"text": "Et",
+"start": 31.333,
+"end": 31.36
+},
+{
+"text": "toi,",
+"start": 31.44,
+"end": 31.76
+},
+{
+"text": "tu",
+"start": 31.8,
+"end": 31.84
+},
+{
+"text": "crois",
+"start": 31.92,
+"end": 32.08
+},
+{
+"text": "à",
+"start": 32.107,
+"end": 32.133
+},
+{
+"text": "la",
+"start": 32.16,
+"end": 32.2
+},
+{
+"text": "bulle",
+"start": 32.24,
+"end": 32.4
+},
+{
+"text": "IA ?",
+"start": 32.44,
+"end": 32.933
+},
+{
+"text": "Dis-le",
+"start": 32.987,
+"end": 33.12
+},
+{
+"text": "en",
+"start": 33.16,
+"end": 33.2
+},
+{
+"text": "commentaire,",
+"start": 33.28,
+"end": 33.92
+},
+{
+"text": "et",
+"start": 33.96,
+"end": 34.0
+},
+{
+"text": "abonne-toi",
+"start": 34.08,
+"end": 34.56
+},
+{
+"text": "pour",
+"start": 34.6,
+"end": 34.64
+},
+{
+"text": "l'actu",
+"start": 34.68,
+"end": 34.96
+},
+{
+"text": "tech",
+"start": 35.04,
+"end": 35.28
+},
+{
+"text": "chaque",
+"start": 35.32,
+"end": 35.44
+},
+{
+"text": "matin.",
+"start": 35.52,
+"end": 36.0
+}
+]
