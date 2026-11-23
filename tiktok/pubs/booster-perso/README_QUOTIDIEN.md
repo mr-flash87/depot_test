@@ -42,3 +42,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 | 2026-11-21 | 1. Bloqué avant 1 000 abonnés pour les lives | Sketch 2 persos | pub_booster-perso*.mp4 |
 | 2026-11-21 (matin) | 4. Idées reçues (mot de passe, carte, inscription) | Explainer 1 voix, vrai/faux | 2026-11-21/bp_2026-11-21_idees-recues*.mp4 |
 | 2026-11-22 | 2. Tuto express « commander en 60 s » | Sketch 2 persos chrono | 2026-11-22/bp_2026-11-22_commander-60s*.mp4 |
+| 2026-11-23 | 7. Deviens revendeur / partenaire | Explainer 1 voix, top 3 + niveaux | 2026-11-23/bp_2026-11-23_partenaire*.mp4 |
