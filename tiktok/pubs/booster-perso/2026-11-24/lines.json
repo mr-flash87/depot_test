@@ -1,0 +1,50 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 3.558,
+  "text": "Frérot, je viens de faire découvrir Booster Perso à cinq potes !"
+ },
+ {
+  "who": "expert",
+  "start": 3.838,
+  "end": 5.648,
+  "text": "Et tu as gagné combien ?"
+ },
+ {
+  "who": "naif",
+  "start": 5.928,
+  "end": 7.581,
+  "text": "Gagné… comment ça ?"
+ },
+ {
+  "who": "expert",
+  "start": 7.861,
+  "end": 21.732,
+  "text": "Le parrainage ! Un : tu crées ton compte sur booster.perso.bf, rubrique Parrainage. Deux : tu partages ton lien, sur WhatsApp par exemple. Trois : tu touches 2 % sur chaque commande payée avec ton lien."
+ },
+ {
+  "who": "naif",
+  "start": 22.012,
+  "end": 22.991,
+  "text": "Et je retire comment ?"
+ },
+ {
+  "who": "expert",
+  "start": 23.271,
+  "end": 25.757,
+  "text": "En Mobile Money, dès 500 FCFA."
+ },
+ {
+  "who": "naif",
+  "start": 26.037,
+  "end": 27.737,
+  "text": "Je renvoie le lien à tout le monde !"
+ },
+ {
+  "who": "expert",
+  "start": 28.017,
+  "end": 31.218,
+  "text": "booster.perso.bf, rubrique Parrainage."
+ }
+]

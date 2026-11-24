@@ -9,6 +9,7 @@ Dossier Drive : « Booster Perso - Pubs » (id `1XU4MiY8W5iROsNOVfYTQOBwVAK5jkvw
 - Disponible dans 14 pays africains. Basé à Ouagadougou.
 - Paiement Mobile Money : Orange, Moov, MTN, Wave (+ carte selon la page paiement).
 - Commande en 3 étapes sur /commander : 1 Service (plateforme + service) → 2 Détails (lien + quantité) → 3 Paiement. Suivi de commande sur /suivi (code BP-…).
+- Parrainage (vérifié 24/11, src/pages/Referral.tsx) : 2 % par commande payée via le lien, retrait Mobile Money dès 500 FCFA, validé sous 24–72 h ouvrées.
 - Pages : /parrainage (parrainage), /partenaire (revendeurs), /docs (API revendeur), /faq.
 - Prix (capture du 29/10/2026, à revérifier) : TikTok Abonnés FQ 250 FCFA/100, TikTok Followers HQ 400 FCFA/100, TikTok Vues HQ 130 FCFA/1000.
 - Ne jamais inventer : prix, délais, garanties (« abonnés réels », « sans chute »…) ou promo non présents dans le projet.
@@ -43,3 +44,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 | 2026-11-21 (matin) | 4. Idées reçues (mot de passe, carte, inscription) | Explainer 1 voix, vrai/faux | 2026-11-21/bp_2026-11-21_idees-recues*.mp4 |
 | 2026-11-22 | 2. Tuto express « commander en 60 s » | Sketch 2 persos chrono | 2026-11-22/bp_2026-11-22_commander-60s*.mp4 |
 | 2026-11-23 | 7. Deviens revendeur / partenaire | Explainer 1 voix, top 3 + niveaux | 2026-11-23/bp_2026-11-23_partenaire*.mp4 |
+| 2026-11-24 | 6. Parrainage (2 %, retrait dès 500 FCFA) | Sketch 2 persos | 2026-11-24/bp_2026-11-24_parrainage*.mp4 |
