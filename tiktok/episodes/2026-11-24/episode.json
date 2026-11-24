@@ -1,0 +1,184 @@
+{
+ "date": "2026-11-24",
+ "format": "dialogue",
+ "template": "template_dialogue.html",
+ "topic": "Nvidia arrête de livrer ses puces IA H200 à la Chine (malgré les licences US) — 2,4 Md$ de ventes au T3",
+ "category": "Hardware / géopolitique",
+ "output": "assane_techia_2026-11-24_nvidia-chine.mp4",
+ "sources": [
+  "https://news.bgov.com/bloomberg-government-news/nvidia-stops-selling-ai-chips-to-china-despite-us-approval",
+  "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval.amp",
+  "https://www.malaymail.com/amp/news/world/2026/11/18/nvidia-cuts-off-hopper-ai-chip-exports-to-china/243776"
+ ],
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Le naïf"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "L'expert"
+  }
+ },
+ "steps": [
+  {
+   "label": "1 · Le rôle",
+   "start": 14.4
+  },
+  {
+   "label": "2 · 2,4 Md$",
+   "start": 18.2
+  },
+  {
+   "label": "3 · Pékin",
+   "start": 23.63
+  }
+ ],
+ "stepsEnd": 27.5,
+ "lines": [
+  {
+   "who": "naif",
+   "start": 0.25,
+   "end": 3.653,
+   "text": "Frérot, pourquoi tout le monde parle des puces Nvidia et de la Chine ?"
+  },
+  {
+   "who": "expert",
+   "start": 3.933,
+   "end": 9.796,
+   "text": "Nvidia vient d'arrêter de livrer ses puces IA H200 à la Chine. Même avec l'accord des États-Unis."
+  },
+  {
+   "who": "naif",
+   "start": 10.076,
+   "end": 12.049,
+   "text": "Mais c'est quoi, une puce IA ?"
+  },
+  {
+   "who": "expert",
+   "start": 12.329,
+   "end": 27.418,
+   "text": "Le cerveau des data centers. Un : c'est avec elles qu'on entraîne et qu'on fait tourner les IA. Deux : la Chine en a acheté pour 2,4 milliards de dollars en un seul trimestre. Trois : et de son côté, Pékin limite aussi leurs importations."
+  },
+  {
+   "who": "naif",
+   "start": 27.698,
+   "end": 29.122,
+   "text": "Et pourquoi Nvidia arrête ?"
+  },
+  {
+   "who": "expert",
+   "start": 29.402,
+   "end": 32.592,
+   "text": "Personne ne sait vraiment. L'entreprise ne l'a pas expliqué."
+  },
+  {
+   "who": "naif",
+   "start": 32.872,
+   "end": 36.467,
+   "text": "Donc la guerre de l'IA… c'est aussi une guerre des puces."
+  },
+  {
+   "who": "expert",
+   "start": 36.747,
+   "end": 44.564,
+   "text": "Exactement. Et toi, qui va gagner : la Chine ou les États-Unis ? Dis-le en commentaire, et abonne-toi pour l'actu tech chaque matin."
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0,
+   "end": 3.9,
+   "cast": {
+    "naif": {
+     "x": 540,
+     "h": 920
+    },
+    "expert": {
+     "x": 1320,
+     "h": 1000
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Actu</span><div class='title xl' data-at='0.05' style='margin-top:50px;font-size:86px'>Puces Nvidia<br>× <b>Chine</b> 🇨🇳</div><div class='think' data-at='1.5' style='left:640px;top:460px'>?</div>"
+  },
+  {
+   "start": 3.9,
+   "end": 10.0,
+   "cast": {
+    "naif": {
+     "x": 240,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 800,
+     "h": 960
+    }
+   },
+   "html": "<span class='tag'>18 nov. 2026</span><div class='card center' data-at='0.1' style='margin-top:26px;padding:34px'><div style='font-weight:800;font-size:30px;letter-spacing:2px;color:#777'>LIVRAISONS DE PUCES H200 VERS LA CHINE</div><div style='font-weight:900;font-size:130px;line-height:1;margin-top:10px;color:#E5243B'>STOP ✋</div></div><div class='center' style='margin-top:36px'><span class='sticker' data-at='3.6' data-rot='-3'>Malgré l'accord des USA 🇺🇸</span></div>"
+  },
+  {
+   "start": 10.0,
+   "end": 27.5,
+   "cast": {
+    "naif": {
+     "x": 170,
+     "h": 560,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 860,
+     "h": 680
+    }
+   },
+   "html": "<span class='tag'>C'est quoi une puce IA ?</span><div class='title' data-at='2.3'>Le cerveau<br><b>des data centers</b></div><div class='gap'></div><div class='item' data-at='4.4' data-anim='slide'><div class='n'>01</div><i data-icon='robot'></i><div class='t'>Entraîne les IA<small>et les fait tourner</small></div></div><div class='item' data-at='8.2' data-anim='slide'><div class='n'>02</div><i data-icon='money'></i><div class='t'>2,4 milliards $<small>achetés par la Chine en 1 trimestre</small></div></div><div class='item' data-at='13.6' data-anim='slide'><div class='n'>03</div><i data-icon='warn'></i><div class='t'>Pékin limite aussi<small>les importations de H200</small></div></div>"
+  },
+  {
+   "start": 27.5,
+   "end": 32.7,
+   "cast": {
+    "naif": {
+     "x": 300,
+     "h": 860
+    },
+    "expert": {
+     "x": 800,
+     "h": 880
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:50px;font-size:84px'>Pourquoi ?<br><b>Mystère</b> 🤷</div><div class='card center' data-at='2.2' style='margin-top:36px;padding:24px;font-weight:900;font-size:40px;text-transform:uppercase'>Nvidia ne l'a pas expliqué</div>"
+  },
+  {
+   "start": 32.7,
+   "end": 36.6,
+   "cast": {
+    "naif": {
+     "x": 400,
+     "h": 960
+    },
+    "expert": {
+     "x": 880,
+     "h": 820,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:80px;font-size:80px'>Guerre de l'IA<br>= <b>guerre<br>des puces</b> ⚔️</div>"
+  },
+  {
+   "start": 36.6,
+   "end": 45.4,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 680,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 810,
+     "h": 880
+    }
+   },
+   "html": "<span class='tag'>À toi de jouer</span><div class='title' data-at='0.05' style='margin-top:20px'>Qui va <b>gagner ?</b></div><div class='gap'></div><div class='row' style='justify-content:center;gap:40px'><div class='tile' data-at='1.4' style='width:320px;height:220px;font-size:34px'><span style='font-size:90px'>🇨🇳</span>Chine</div><div class='tile' data-at='2.2' style='width:320px;height:220px;font-size:34px'><span style='font-size:90px'>🇺🇸</span>États-Unis</div></div><div class='center' style='margin-top:40px'><span class='btn' data-at='3.4' data-anim='slide'>Dis-le en commentaire</span></div>"
+  }
+ ]
+}

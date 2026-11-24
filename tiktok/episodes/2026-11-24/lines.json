@@ -1,0 +1,50 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 3.653,
+  "text": "Frérot, pourquoi tout le monde parle des puces Nvidia et de la Chine ?"
+ },
+ {
+  "who": "expert",
+  "start": 3.933,
+  "end": 9.796,
+  "text": "Nvidia vient d'arrêter de livrer ses puces IA H200 à la Chine. Même avec l'accord des États-Unis."
+ },
+ {
+  "who": "naif",
+  "start": 10.076,
+  "end": 12.049,
+  "text": "Mais c'est quoi, une puce IA ?"
+ },
+ {
+  "who": "expert",
+  "start": 12.329,
+  "end": 27.418,
+  "text": "Le cerveau des data centers. Un : c'est avec elles qu'on entraîne et qu'on fait tourner les IA. Deux : la Chine en a acheté pour 2,4 milliards de dollars en un seul trimestre. Trois : et de son côté, Pékin limite aussi leurs importations."
+ },
+ {
+  "who": "naif",
+  "start": 27.698,
+  "end": 29.122,
+  "text": "Et pourquoi Nvidia arrête ?"
+ },
+ {
+  "who": "expert",
+  "start": 29.402,
+  "end": 32.592,
+  "text": "Personne ne sait vraiment. L'entreprise ne l'a pas expliqué."
+ },
+ {
+  "who": "naif",
+  "start": 32.872,
+  "end": 36.467,
+  "text": "Donc la guerre de l'IA… c'est aussi une guerre des puces."
+ },
+ {
+  "who": "expert",
+  "start": 36.747,
+  "end": 44.564,
+  "text": "Exactement. Et toi, qui va gagner : la Chine ou les États-Unis ? Dis-le en commentaire, et abonne-toi pour l'actu tech chaque matin."
+ }
+]
