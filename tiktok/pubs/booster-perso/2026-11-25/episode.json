@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-25",
+ "format": "explainer 1 voix, tour des drapeaux (pub)",
+ "template": "template_dialogue.html",
+ "topic": "Booster Perso — disponible dans 14 pays africains",
+ "angle": "13. 14 pays",
+ "output": "bp_2026-11-25_14-pays.mp4",
+ "voices": {
+  "expert": "3Tp5mYhT9wrfnry9pzvV (Hugo)"
+ },
+ "sources": [
+  "Lovable Boost Social Hub: src/components/HeroSection.tsx, public/llms.txt, .lovable/memory/features/auto-currency-detection.md"
+ ],
+ "css": "#tabs{gap:8px;left:24px;right:24px}#tabs div{font-size:21px;padding:9px 11px;border-width:3px} .row-c{display:flex;align-items:center;gap:20px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:12px 18px;margin-bottom:20px} .row-c .n{flex:none;width:64px;height:64px;background:#7C3AED;color:#fff;display:grid;place-items:center;font-weight:900;font-size:30px} .row-c .k{font-weight:900;font-size:30px;text-transform:uppercase;width:210px;flex:none} .chip{display:inline-block;border:3px solid #16131C;padding:6px 12px;font-weight:800;font-size:24px;margin-right:8px;background:#fff} .chip.on{background:#16131C;color:#fff} .url{display:flex;align-items:center;gap:14px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:14px 20px;font-weight:800;font-size:34px;margin:22px 0 26px} .url i{font-style:normal} .pay{background:#FFB300;color:#16131C;font-weight:900;font-size:28px;padding:10px 16px;border:3px solid #16131C;text-transform:uppercase} .bar{height:28px;border:4px solid #16131C;background:#fff;margin-top:18px;position:relative} .bar i{position:absolute;left:0;top:0;bottom:0;background:#7C3AED} .live{display:inline-block;background:#FF2D55;color:#fff;font-weight:900;font-size:40px;padding:8px 18px;border:4px solid #16131C} .brand{font-weight:900;font-size:110px;line-height:.95;letter-spacing:-3px;text-transform:uppercase} :root{--blue:#C13BE8;--violet:#8B5CF6;--grey:#6E7290;--line:#20243A}\nhtml,body{background:#14172A;color:#fff} #stage{background-color:#14172A}\n#caps .line{color:#fff} #caps .w{color:#6E7290} #caps .w.said{color:#fff} #caps .w.on{color:#FFC83D}\n.title b,.brand-t b{background:linear-gradient(90deg,#9B3FE6,#E03AD6);-webkit-background-clip:text;background-clip:text;color:transparent}\n.tag{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;border-radius:6px}\n.card,.row-c,.url,.tile{color:#16131C;border-color:#0B0D18}\n.card{box-shadow:12px 12px 0 #9B3FE6;border-radius:18px} .row-c,.url{box-shadow:8px 8px 0 #9B3FE6;border-radius:12px} .tile{box-shadow:8px 8px 0 #9B3FE6;border-radius:14px}\n.row-c .n{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:10px} .chip{border-radius:999px;border-color:#16131C} .chip.on{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;border-color:transparent}\n#tabs div{background:#1E2238;color:#8A8DA8;border-color:#3A3F5C;border-radius:8px} #tabs div.on{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;box-shadow:none;border-color:transparent} #tabs div.done{color:#fff}\n.who{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:6px}\n.btn{background:linear-gradient(90deg,#9B3FE6,#E03AD6);box-shadow:0 10px 30px rgba(224,58,214,.45);border-radius:999px}\n.sticker{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-color:#fff;box-shadow:8px 8px 0 #FFC83D;border-radius:12px}\n.think{color:#C13BE8} .bar i{background:linear-gradient(90deg,#9B3FE6,#E03AD6)} .pay{border-radius:999px}\n.logo{display:flex;align-items:center;justify-content:center;gap:22px} .logo .ic2{width:120px;height:120px;border-radius:50%;background:linear-gradient(135deg,#6D5BF0,#E03AD6);display:grid;place-items:center;font-size:66px;box-shadow:0 0 0 6px #fff,0 0 0 10px #16131C}\n.brand-t{font-weight:900;font-size:84px;line-height:.92;letter-spacing:-2px;text-transform:uppercase;text-align:left;color:#16131C}\n.badge2{display:inline-block;border:2px solid #3A3F5C;background:#1E2238;color:#fff;border-radius:999px;padding:10px 20px;font-weight:800;font-size:28px} .chip{color:#16131C;background:#fff} .chip.on{color:#fff} #panel{container-type:size;background:radial-gradient(120% 80% at 50% 0%,#2A1F4E 0%,#14172A 60%);border-left:4px solid #9B3FE6;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:4.5cqw;padding:6cqw;color:#fff}\n#panel .pl{display:flex;align-items:center;gap:3cqw;justify-content:center} #panel .pi{width:16cqw;height:16cqw;border-radius:50%;background:linear-gradient(135deg,#6D5BF0,#E03AD6);display:grid;place-items:center;font-size:9cqw;box-shadow:0 0 0 1cqw #fff}\n#panel .pn{font-weight:900;font-size:11cqw;line-height:.9;text-transform:uppercase;text-align:left;letter-spacing:-.3cqw} #panel .pn b{background:linear-gradient(90deg,#9B3FE6,#E03AD6);-webkit-background-clip:text;background-clip:text;color:transparent}\n#panel .ph{font-weight:900;font-size:8.2cqw;line-height:1.08;text-transform:uppercase} #panel .ph b{color:#FFC83D}\n#panel .pc{display:flex;flex-wrap:wrap;gap:1.6cqw;justify-content:center} #panel .pc span{background:#fff;color:#16131C;border-radius:999px;font-weight:800;font-size:4.6cqw;padding:1.2cqw 3cqw}\n#panel .pb{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:999px;font-weight:900;font-size:6.4cqw;padding:3.4cqw 6cqw;box-shadow:0 1.5cqw 5cqw rgba(224,58,214,.5)} #panel .pb small{display:block;font-size:4.4cqw;font-weight:700;opacity:.95;text-transform:none}\n#panel .pm{background:#FFB300;color:#16131C;border-radius:999px;font-weight:900;font-size:4.6cqw;padding:1.8cqw 3.6cqw} #panel .pp{font-weight:700;font-size:4.6cqw;color:#C9CBE0} #panel .px{display:none;font-weight:900;font-size:10cqw;line-height:1.05;text-transform:uppercase} #panel .px b{color:#FFC83D} @container (min-aspect-ratio: 1/1){ #panel>*{zoom:.62} #panel{gap:2.6cqh} }\n@container (max-width: 400px){ #panel .ph,#panel .pc,#panel .pp{display:none} #panel{gap:7cqw} #panel .pl{flex-direction:column} #panel .pi{width:40cqw;height:40cqw;font-size:22cqw} #panel .pn{font-size:17cqw;text-align:center} #panel .pb{font-size:10cqw;padding:5cqw 6cqw;border-radius:6cqw} #panel .pb small{font-size:7.4cqw} #panel .pm{font-size:7cqw;border-radius:5cqw;line-height:1.3} #panel .px{display:block} } .fl{display:inline-block;background:#fff;color:#16131C;border-radius:999px;font-weight:800;font-size:30px;padding:10px 18px;margin:0 10px 14px 0;box-shadow:5px 5px 0 #9B3FE6}",
+ "panel": "<div class='pl'><div class='pi'>🚀</div><div class='pn'>Booster<br><b>Perso</b></div></div><div class='px'>Abonnés<br><b>Likes</b><br>Vues</div><div class='ph'>Boostez vos <b>abonnés</b>, <b>likes</b> et <b>vues</b></div><div class='pc'><span>TikTok</span><span>Facebook</span><span>Instagram</span><span>+7</span></div><div class='pp'>🌍 Dispo dans 14 pays africains</div><div class='pb'>COMMANDER<small>booster.perso.bf</small></div><div class='pm'>📱 Paiement Mobile Money</div>",
+ "characters": {
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "Booster Perso"
+  }
+ },
+ "lines": [
+  {
+   "who": "expert",
+   "start": 0,
+   "end": 28.3
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0,
+   "end": 5.1,
+   "cast": {
+    "expert": {
+     "x": 540,
+     "h": 900
+    }
+   },
+   "html": "<div class='center' style='margin-top:40px'><span class='fl' data-at='0.44' style='font-size:44px'>🇸🇳 Sénégal ?</span><span class='fl' data-at='1.28' style='font-size:44px'>🇨🇲 Cameroun ?</span><span class='fl' data-at='2.0' style='font-size:44px'>🇨🇮 Côte d'Ivoire ?</span></div><div class='title xl' data-at='2.9' style='margin-top:30px;font-size:84px'>C'est aussi<br><b>pour toi</b> 🚀</div>"
+  },
+  {
+   "start": 5.1,
+   "end": 15.8,
+   "cast": {
+    "expert": {
+     "x": 880,
+     "h": 620
+    }
+   },
+   "html": "<span class='tag'>Disponible dans</span><div class='title' data-at='0.6' style='margin-top:14px;font-size:76px'><b>14 pays</b> africains 🌍</div><div style='margin-top:30px'><span class='fl' data-at='2.74'>🇧🇫 Burkina Faso</span><span class='fl' data-at='3.74'>🇨🇮 Côte d'Ivoire</span><span class='fl' data-at='4.62'>🇸🇳 Sénégal</span><span class='fl' data-at='5.49'>🇲🇱 Mali</span><span class='fl' data-at='5.94'>🇹🇬 Togo</span><span class='fl' data-at='6.58'>🇧🇯 Bénin</span><span class='fl' data-at='7.14'>🇳🇪 Niger</span><span class='fl' data-at='7.82'>🇨🇲 Cameroun</span><span class='fl' data-at='8.62'>🇬🇦 Gabon</span><span class='fl' data-at='9.14'>🇨🇬 Congo</span><span class='fl' data-at='9.78'>🇨🇩 RDC</span><span class='fl' data-at='10.30' style='background:#FFC83D;color:#16131C'>+ 3 autres</span></div>"
+  },
+  {
+   "start": 15.8,
+   "end": 25.9,
+   "cast": {
+    "expert": {
+     "x": 880,
+     "h": 620
+    }
+   },
+   "html": "<span class='tag'>Pensé pour toi</span><div class='gap'></div><div class='row-c' data-at='0.1' data-anim='slide'><div class='n' style='font-size:34px'>🗣️</div><div><div class='k' style='width:auto'>Tout en français</div></div></div><div class='row-c' data-at='1.3' data-anim='slide'><div class='n' style='font-size:34px'>💰</div><div><div class='k' style='width:auto'>Prix en FCFA</div><div style='font-weight:700;font-size:26px;color:#555'>conversion affichée si ta monnaie diffère</div></div></div><div class='row-c' data-at='5.6' data-anim='slide'><div class='n' style='font-size:34px'>📱</div><div><div class='k' style='width:auto'>Mobile Money</div><div style='font-weight:700;font-size:26px;color:#555'>selon les opérateurs de ton pays</div></div></div><div class='row-c' data-at='8.0' data-anim='slide'><div class='n' style='font-size:34px'>🚫</div><div><div class='k' style='width:auto'>Sans carte bancaire</div><div style='font-weight:700;font-size:26px;color:#555'>et sans inscription</div></div></div>"
+  },
+  {
+   "start": 25.9,
+   "end": 29.1,
+   "cast": {
+    "expert": {
+     "x": 810,
+     "h": 820
+    }
+   },
+   "html": "<div class='card' data-at='0.05' style='margin-top:10px;padding:40px 30px'><div class='logo'><div class='ic2'>🚀</div><div class='brand-t'>Booster<br><b>Perso</b></div></div><div class='center' style='font-weight:800;font-size:30px;margin-top:24px;color:#444'>🌍 Dispo dans 14 pays africains</div></div><div class='center' style='margin-top:40px'><span class='btn' data-at='0.6' style='font-size:54px;padding:24px 44px;text-transform:none'>booster.perso.bf</span></div><div class='center' style='margin-top:34px'><span class='pay' data-at='1.6' style='font-size:30px'>📱 Paiement Mobile Money</span></div>"
+  }
+ ]
+}
