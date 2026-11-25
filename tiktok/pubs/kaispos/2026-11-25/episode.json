@@ -1,0 +1,238 @@
+{
+ "date": "2026-11-25",
+ "format": "dialogue",
+ "template": "template_dialogue.html",
+ "topic": "Pub native Kaïs POS : deux patrons — vols supposés, ruptures, cahier disparu",
+ "output": "kaispos_2026-11-25_deux-patrons.mp4",
+ "voices": {
+  "naif": "qGwq3bbZd3aOEpsBcuc6 (David)",
+  "expert": "mQS95w8LbLFsF6QihxDH (Dave)"
+ },
+ "sources": [
+  "Projet Lovable Kaïs POS (landing) — fonctionnalités, essai 7 jours, URL"
+ ],
+ "css": ":root{--bg:#F1F2F6;--ink:#0F172A;--blue:#2563EB;--violet:#60A5FA;--grey:#A0A8B8;--line:#DDE1EA}\nhtml,body{background:#F1F2F6} #stage{background-color:#F1F2F6}\n.tag{border-radius:8px} .card{border-radius:18px} .item{border-radius:14px} .btn{border-radius:999px} .sticker{border-radius:12px} #tabs div{border-radius:8px} .who{border-radius:6px}\n#tabs{gap:8px;left:24px;right:24px}#tabs div{font-size:22px;padding:9px 11px;border-width:3px}\n.logo{display:flex;align-items:center;justify-content:center;gap:22px} .logo .ic2{width:120px;height:120px;border-radius:28px;background:#2563EB;display:grid;place-items:center;box-shadow:8px 8px 0 #0F172A} .logo .ic2 svg{width:70px;height:70px;color:#fff;stroke:#fff}\n.brand-t{font-weight:900;font-size:92px;line-height:.92;letter-spacing:-2px;text-align:left;color:#0F172A} .brand-t b{color:#2563EB}\n.mock{background:#fff;border:4px solid #0F172A;border-radius:16px;box-shadow:8px 8px 0 #2563EB;padding:16px 22px;font-weight:800;font-size:30px;color:#0F172A;display:flex;align-items:center;gap:16px;margin-top:18px}\n.mock .dot{width:20px;height:20px;border-radius:50%;flex:none} .mock small{display:block;font-weight:600;font-size:24px;color:#5B6478}\n.red{color:#DC2626} .stampk{display:inline-block;border:6px solid #DC2626;color:#DC2626;font-weight:900;font-size:64px;padding:6px 22px;text-transform:uppercase;border-radius:10px;background:rgba(255,255,255,.85)}\n.cahier{width:430px;height:300px;background:#FFF8E1;border:5px solid #0F172A;border-radius:12px;box-shadow:10px 10px 0 #0F172A;margin:30px auto 0;padding:26px 30px;font-family:inherit;position:relative}\n.cahier .l{height:4px;background:#C9B98A;margin:30px 0}.cahier .h{font-weight:900;font-size:38px;color:#0F172A}\n#panel{container-type:size;background:#F1F2F6;border-left:5px solid #0F172A;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:4.5cqw;padding:6cqw;color:#0F172A}\n#panel .pl{display:flex;align-items:center;gap:3cqw;justify-content:center} #panel .pi{width:16cqw;height:16cqw;border-radius:4cqw;background:#2563EB;display:grid;place-items:center;box-shadow:1.2cqw 1.2cqw 0 #0F172A} #panel .pi svg{width:10cqw;height:10cqw;stroke:#fff;color:#fff}\n#panel .pn{font-weight:900;font-size:12cqw;line-height:.9;text-align:left;letter-spacing:-.3cqw} #panel .pn b{color:#2563EB}\n#panel .ph{font-weight:900;font-size:8cqw;line-height:1.08;text-transform:uppercase} #panel .ph b{color:#2563EB}\n#panel .pc{display:flex;flex-direction:column;gap:1.8cqw;align-items:stretch;width:100%} #panel .pc span{background:#fff;border:.7cqw solid #0F172A;border-radius:2.4cqw;font-weight:800;font-size:4.8cqw;padding:1.8cqw 3cqw;text-align:left}\n#panel .pb{background:#2563EB;color:#fff;border-radius:999px;font-weight:900;font-size:6.4cqw;padding:3.4cqw 6cqw;box-shadow:1.2cqw 1.2cqw 0 #0F172A} #panel .pb small{display:block;font-size:4.2cqw;font-weight:700;text-transform:none}\n#panel .pm{font-weight:700;font-size:4.4cqw;color:#5B6478} #panel .px{display:none;font-weight:900;font-size:10cqw;line-height:1.05;text-transform:uppercase} #panel .px b{color:#2563EB}\n@container (min-aspect-ratio: 1/1){ #panel>*{zoom:.6} #panel{gap:2.4cqh} }\n@container (max-width: 400px){ #panel .ph,#panel .pc,#panel .pm{display:none} #panel{gap:7cqw} #panel .pl{flex-direction:column} #panel .pi{width:40cqw;height:40cqw;border-radius:9cqw} #panel .pi span{font-size:22cqw!important} #panel .pn{font-size:18cqw;text-align:center} #panel .pb{font-size:9.5cqw;padding:5cqw 5cqw;border-radius:6cqw} #panel .pb small{font-size:6.6cqw} #panel .px{display:block} }",
+ "panel": "<div class='pl'><div class='pi'><span style='font-size:9cqw'>🏪</span></div><div class='pn'>Kaïs<br><b>POS</b></div></div><div class='px'>Caisse<br><b>Stock</b><br>Contrôle</div><div class='ph'>Votre boutique, <b>sous contrôle</b></div><div class='pc'><span>📦 Stock en temps réel + alertes</span><span>👤 Un compte par caissier</span><span>🛡️ Chaque annulation tracée</span><span>📈 Bénéfices du jour</span></div><div class='pb'>ESSAI GRATUIT 7 JOURS<small>kaispos.pixelpub.online</small></div><div class='pm'>Sans carte bancaire · Licence à vie</div>",
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Le patron"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "Son ami patron"
+  }
+ },
+ "steps": [
+  {
+   "label": "1 · Stock",
+   "start": 26.0
+  },
+  {
+   "label": "2 · Caissiers",
+   "start": 30.7
+  },
+  {
+   "label": "3 · Traçabilité",
+   "start": 35.6
+  }
+ ],
+ "stepsEnd": 39.45,
+ "scenes": [
+  {
+   "start": 0,
+   "end": 5.7,
+   "cast": {
+    "naif": {
+     "x": 560,
+     "h": 920
+    },
+    "expert": {
+     "x": 1300,
+     "h": 1000
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Boutique · fin de journée</span><div class='mock' data-at='0.6' data-anim='slide'><span class='dot' style='background:#DC2626'></span><div>Stock 📦<small>les cartons sortent…</small></div><div style='margin-left:auto' class='red'>↓↓↓</div></div><div class='mock' data-at='3.9' data-anim='slide'><span class='dot' style='background:#DC2626'></span><div>Caisse 💰<small>l'argent ne suit pas</small></div><div style='margin-left:auto' class='red'>???</div></div><div class='think' data-at='2.9' style='left:120px;top:760px'>😤</div>"
+  },
+  {
+   "start": 5.7,
+   "end": 7.0,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 800,
+     "h": 920
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:90px;font-size:90px'>« Tu es<br><b>sûr ?</b> »</div>"
+  },
+  {
+   "start": 7.0,
+   "end": 13.4,
+   "cast": {
+    "naif": {
+     "x": 250,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 820,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<span class='tag'>Un client arrive</span><div class='card chat' data-at='0.1' style='margin-top:26px'><div class='hd'><span class='ic' style='width:44px'><i data-icon='store'></i></span>AU COMPTOIR</div><div class='body' style='min-height:150px'><div class='rep' data-at='0.5' data-anim='slide'>🛒 Vous avez du <b>riz 25 kg</b> ?</div><div class='bub' data-at='4.1' data-anim='drop'>😬 Euh… il n'y en a plus.</div></div></div><div class='center' style='margin-top:36px'><span class='stampk' data-at='5.0' data-rot='-6'>Rupture</span></div>"
+  },
+  {
+   "start": 13.4,
+   "end": 16.9,
+   "cast": {
+    "naif": {
+     "x": 300,
+     "h": 900
+    },
+    "expert": {
+     "x": 850,
+     "h": 820,
+     "o": 0.9
+    }
+   },
+   "html": "<span class='tag'>Le mois dernier</span><div class='cahier' data-at='0.05'><div class='h'><span class='strike' data-strike='1.3'>📒 CAHIER DES VENTES</span></div><div class='l'></div><div class='l'></div><div class='l'></div></div><div class='center' style='margin-top:40px'><span class='sticker' data-at='1.75' data-rot='-4' style='background:#DC2626'>Disparu !</span></div><div class='center' style='margin-top:26px'><span class='sticker' data-at='2.9' data-rot='3' style='background:#0F172A'>Faillite ? 📉</span></div>"
+  },
+  {
+   "start": 16.9,
+   "end": 22.55,
+   "cast": {
+    "naif": {
+     "x": 230,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 800,
+     "h": 920
+    }
+   },
+   "html": "<div class='title' data-at='0.05' style='margin-top:20px'>Avant d'<b>accuser</b>,<br>contrôle ta boutique</div><div class='card' data-at='3.4' style='margin-top:50px;padding:36px 30px'><div class='logo'><div class='ic2'><i data-icon='store'></i></div><div class='brand-t'>Kaïs<br><b>POS</b></div></div></div>"
+  },
+  {
+   "start": 22.55,
+   "end": 23.7,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 960
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:90px;font-size:90px'>« C'est<br><b>quoi ça ?</b> »</div><div class='think' data-at='0.3' style='left:440px;top:440px'>?</div>"
+  },
+  {
+   "start": 23.7,
+   "end": 39.45,
+   "cast": {
+    "naif": {
+     "x": 170,
+     "h": 560,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 850,
+     "h": 780
+    }
+   },
+   "html": "<span class='tag'>Caisse + stock</span><div class='title'>Kaïs POS : <b>3 contrôles</b></div><div class='gap'></div><div class='item' data-at='2.3' data-anim='slide'><div class='n'>01</div><i data-icon='cart'></i><div class='t'>Vente = stock déduit<small>+ alerte avant la rupture</small></div></div><div class='item' data-at='7.0' data-anim='slide'><div class='n'>02</div><i data-icon='shield'></i><div class='t'>1 compte par caissier<small>aucune vente sans auteur</small></div></div><div class='item' data-at='11.9' data-anim='slide'><div class='n'>03</div><i data-icon='money'></i><div class='t'>Annulations tracées<small>+ bénéfices du jour</small></div></div><div class='mock' data-at='5.2' data-anim='drop' style='width:620px'><span class='dot' style='background:#F59E0B'></span><div>Stock bas · Riz 25 kg<small>3 restants</small></div></div>"
+  },
+  {
+   "start": 39.45,
+   "end": 41.25,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 960
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='cahier' data-at='0.05' style='margin-top:60px'><div class='h'><span class='strike' data-strike='0.4'>📒 CAHIER</span></div><div class='l'></div><div class='l'></div><div class='l'></div></div><div class='center' style='margin-top:40px'><span class='sticker' data-at='0.6' data-rot='-4'>Plus besoin ! 🙌</span></div>"
+  },
+  {
+   "start": 41.25,
+   "end": 47.3,
+   "cast": {
+    "naif": {
+     "x": 240,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 830,
+     "h": 800
+    }
+   },
+   "html": "<div class='card' data-at='0.05' style='margin-top:10px;padding:36px 30px'><div class='logo'><div class='ic2'><i data-icon='store'></i></div><div class='brand-t'>Kaïs<br><b>POS</b></div></div><div class='center' style='font-weight:800;font-size:32px;margin-top:22px;color:#5B6478'>Votre boutique, sous contrôle.</div></div><div class='center' style='margin-top:36px'><span class='sticker' data-at='1.4' data-rot='-3'>Essai gratuit 7 jours</span></div><div class='center' style='margin-top:30px'><span class='btn' data-at='4.0' style='font-size:40px;padding:22px 36px;text-transform:none'>kaispos.pixelpub.online</span></div><div class='center' style='margin-top:22px;font-weight:700;font-size:28px;color:#5B6478' data-at='4.4'>Sans carte bancaire · Licence à vie</div>"
+  }
+ ],
+ "lines": [
+  {
+   "who": "naif",
+   "start": 0.25,
+   "end": 5.545,
+   "text": "Frérot, je crois que mes employés me volent. Le stock sort… mais l'argent, je ne le vois pas."
+  },
+  {
+   "who": "expert",
+   "start": 5.825,
+   "end": 6.792,
+   "text": "Tu es sûr de ça ?"
+  },
+  {
+   "who": "naif",
+   "start": 7.072,
+   "end": 16.691,
+   "text": "Les clients viennent chercher un produit, et je découvre que je n'en ai plus. Et le mois dernier, le cahier des ventes a disparu ! Franchement, à ce rythme, je vais faire faillite."
+  },
+  {
+   "who": "expert",
+   "start": 16.971,
+   "end": 22.347,
+   "text": "Avant d'accuser qui que ce soit, contrôle ta boutique. Moi, j'utilise Kaïs POS."
+  },
+  {
+   "who": "naif",
+   "start": 22.627,
+   "end": 23.483,
+   "text": "C'est quoi, ça ?"
+  },
+  {
+   "who": "expert",
+   "start": 23.763,
+   "end": 39.258,
+   "text": "Un logiciel de caisse et de stock. Un : chaque vente déduit le stock, avec une alerte avant la rupture. Deux : chaque caissier a son propre compte. Aucune vente sans auteur. Trois : chaque annulation est tracée, et tu vois tes bénéfices du jour."
+  },
+  {
+   "who": "naif",
+   "start": 39.538,
+   "end": 41.064,
+   "text": "Plus besoin du cahier, alors !"
+  },
+  {
+   "who": "expert",
+   "start": 41.344,
+   "end": 46.133,
+   "text": "Exactement. Et tu peux l'essayer gratuitement pendant sept jours. Le lien est à l'écran."
+  }
+ ],
+ "stepsStart": 23.7
+}

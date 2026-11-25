@@ -1,0 +1,50 @@
+[
+ {
+  "who": "naif",
+  "start": 0.25,
+  "end": 5.545,
+  "text": "Frérot, je crois que mes employés me volent. Le stock sort… mais l'argent, je ne le vois pas."
+ },
+ {
+  "who": "expert",
+  "start": 5.825,
+  "end": 6.792,
+  "text": "Tu es sûr de ça ?"
+ },
+ {
+  "who": "naif",
+  "start": 7.072,
+  "end": 16.691,
+  "text": "Les clients viennent chercher un produit, et je découvre que je n'en ai plus. Et le mois dernier, le cahier des ventes a disparu ! Franchement, à ce rythme, je vais faire faillite."
+ },
+ {
+  "who": "expert",
+  "start": 16.971,
+  "end": 22.347,
+  "text": "Avant d'accuser qui que ce soit, contrôle ta boutique. Moi, j'utilise Kaïs POS."
+ },
+ {
+  "who": "naif",
+  "start": 22.627,
+  "end": 23.483,
+  "text": "C'est quoi, ça ?"
+ },
+ {
+  "who": "expert",
+  "start": 23.763,
+  "end": 39.258,
+  "text": "Un logiciel de caisse et de stock. Un : chaque vente déduit le stock, avec une alerte avant la rupture. Deux : chaque caissier a son propre compte. Aucune vente sans auteur. Trois : chaque annulation est tracée, et tu vois tes bénéfices du jour."
+ },
+ {
+  "who": "naif",
+  "start": 39.538,
+  "end": 41.064,
+  "text": "Plus besoin du cahier, alors !"
+ },
+ {
+  "who": "expert",
+  "start": 41.344,
+  "end": 46.133,
+  "text": "Exactement. Et tu peux l'essayer gratuitement pendant sept jours. Le lien est à l'écran."
+ }
+]
