@@ -47,3 +47,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 | 2026-11-24 | 6. Parrainage (2 %, retrait dès 500 FCFA) | Sketch 2 persos | 2026-11-24/bp_2026-11-24_parrainage*.mp4 |
 | 2026-11-25 | 13. 14 pays (tour des drapeaux) | Explainer 1 voix | 2026-11-25/bp_2026-11-25_14-pays*.mp4 |
 | 2026-11-26 | 9. Artiste : sortir son clip du quartier | Sketch 2 persos, 4 étapes | 2026-11-26/bp_2026-11-26_artiste-clip*.mp4 |
+| 2026-11-27 | 5. Suivi de commande en direct (src/pages/Suivi.tsx vérifié) | POV 1 voix (Hugo), maquette téléphone | 2026-11-27/bp_2026-11-27_pov-suivi*.mp4 |
