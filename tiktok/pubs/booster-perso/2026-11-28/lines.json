@@ -1,0 +1,56 @@
+[
+ {
+  "who": "expert",
+  "start": 0.25,
+  "end": 4.41,
+  "text": "Jeu rapide. Mille vues TikTok sur Booster Perso : ça coûte combien, d'après toi ?"
+ },
+ {
+  "who": "naif",
+  "start": 4.69,
+  "end": 7.05,
+  "text": "Euh… cinq mille francs ?"
+ },
+ {
+  "who": "expert",
+  "start": 7.33,
+  "end": 9.033,
+  "text": "Deux cents francs CFA."
+ },
+ {
+  "who": "naif",
+  "start": 9.313,
+  "end": 11.254,
+  "text": "Deux cents ?! Tu rigoles !"
+ },
+ {
+  "who": "expert",
+  "start": 11.534,
+  "end": 13.943,
+  "text": "Deuxième question. Cent abonnés Facebook ?"
+ },
+ {
+  "who": "naif",
+  "start": 14.223,
+  "end": 14.774,
+  "text": "Deux mille ?"
+ },
+ {
+  "who": "expert",
+  "start": 15.054,
+  "end": 18.815,
+  "text": "Trois cent cinquante. Et cent likes Instagram : deux cents francs."
+ },
+ {
+  "who": "naif",
+  "start": 19.095,
+  "end": 20.87,
+  "text": "Bon… je commande comment ?"
+ },
+ {
+  "who": "expert",
+  "start": 21.15,
+  "end": 27.578,
+  "text": "booster.perso.bf. Tu colles ton lien, tu payes par Mobile Money. Tous les prix sont sur le site."
+ }
+]

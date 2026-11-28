@@ -11,7 +11,7 @@ Dossier Drive : « Booster Perso - Pubs » (id `1XU4MiY8W5iROsNOVfYTQOBwVAK5jkvw
 - Commande en 3 étapes sur /commander : 1 Service (plateforme + service) → 2 Détails (lien + quantité) → 3 Paiement. Suivi de commande sur /suivi (code BP-…).
 - Parrainage (vérifié 24/11, src/pages/Referral.tsx) : 2 % par commande payée via le lien, retrait Mobile Money dès 500 FCFA, validé sous 24–72 h ouvrées.
 - Pages : /parrainage (parrainage), /partenaire (revendeurs), /docs (API revendeur), /faq.
-- Prix (capture du 29/10/2026, à revérifier) : TikTok Abonnés FQ 250 FCFA/100, TikTok Followers HQ 400 FCFA/100, TikTok Vues HQ 130 FCFA/1000.
+- Prix (base my_services via Lovable query_database, 28/11/2026 ; prix = sale_price_fcfa par min_qty) : TikTok Video Vues HQ 200 FCFA/1000, Abonnés Facebook afrique 350 FCFA/100, Instagram Likes 200 FCFA/100. Les prix changent : toujours re-vérifier. Promo : colonnes promo_price_fcfa/promo_starts_at/promo_ends_at (bannière « BLACK FRIDAY » affichée seulement si une promo est active ; aucune le 28/11).
 - Ne jamais inventer : prix, délais, garanties (« abonnés réels », « sans chute »…) ou promo non présents dans le projet.
 
 ## Charte
@@ -48,3 +48,4 @@ Interdit : faux témoignages présentés comme réels, faux avis clients, chiffr
 | 2026-11-25 | 13. 14 pays (tour des drapeaux) | Explainer 1 voix | 2026-11-25/bp_2026-11-25_14-pays*.mp4 |
 | 2026-11-26 | 9. Artiste : sortir son clip du quartier | Sketch 2 persos, 4 étapes | 2026-11-26/bp_2026-11-26_artiste-clip*.mp4 |
 | 2026-11-27 | 5. Suivi de commande en direct (src/pages/Suivi.tsx vérifié) | POV 1 voix (Hugo), maquette téléphone | 2026-11-27/bp_2026-11-27_pov-suivi*.mp4 |
+| 2026-11-28 | 3. Révélation de prix (prix DB du jour) | Sketch 2 persos, jeu « Devine le prix » | 2026-11-28/bp_2026-11-28_devine-le-prix*.mp4 |

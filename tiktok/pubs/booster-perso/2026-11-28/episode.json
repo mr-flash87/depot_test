@@ -1,0 +1,196 @@
+{
+ "date": "2026-11-28",
+ "format": "dialogue",
+ "template": "template_dialogue.html",
+ "topic": "Angle 3 — Révélation de prix (jeu « Devine le prix »)",
+ "output": "bp_2026-11-28_devine-le-prix.mp4",
+ "voices": {
+  "naif": "qGwq3bbZd3aOEpsBcuc6 (David)",
+  "expert": "mQS95w8LbLFsF6QihxDH (Dave)"
+ },
+ "sources": [
+  "DB my_services 28/11/2026 05:50 UTC : TikTok Video Vues HQ 200 F/1000 ; Abonnés Facebook afrique 350 F/100 ; Instagram Likes 200 F/100 ; aucune promo active"
+ ],
+ "css": "#tabs{gap:8px;left:24px;right:24px}#tabs div{font-size:21px;padding:9px 11px;border-width:3px} .row-c{display:flex;align-items:center;gap:20px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:12px 18px;margin-bottom:20px} .row-c .n{flex:none;width:64px;height:64px;background:#7C3AED;color:#fff;display:grid;place-items:center;font-weight:900;font-size:30px} .row-c .k{font-weight:900;font-size:30px;text-transform:uppercase;width:210px;flex:none} .chip{display:inline-block;border:3px solid #16131C;padding:6px 12px;font-weight:800;font-size:24px;margin-right:8px;background:#fff} .chip.on{background:#16131C;color:#fff} .url{display:flex;align-items:center;gap:14px;background:#fff;border:4px solid #16131C;box-shadow:8px 8px 0 #16131C;padding:14px 20px;font-weight:800;font-size:34px;margin:22px 0 26px} .url i{font-style:normal} .pay{background:#FFB300;color:#16131C;font-weight:900;font-size:28px;padding:10px 16px;border:3px solid #16131C;text-transform:uppercase} .bar{height:28px;border:4px solid #16131C;background:#fff;margin-top:18px;position:relative} .bar i{position:absolute;left:0;top:0;bottom:0;background:#7C3AED} .live{display:inline-block;background:#FF2D55;color:#fff;font-weight:900;font-size:40px;padding:8px 18px;border:4px solid #16131C} .brand{font-weight:900;font-size:110px;line-height:.95;letter-spacing:-3px;text-transform:uppercase} :root{--blue:#C13BE8;--violet:#8B5CF6;--grey:#6E7290;--line:#20243A}\nhtml,body{background:#14172A;color:#fff} #stage{background-color:#14172A}\n#caps .line{color:#fff} #caps .w{color:#6E7290} #caps .w.said{color:#fff} #caps .w.on{color:#FFC83D}\n.title b,.brand-t b{background:linear-gradient(90deg,#9B3FE6,#E03AD6);-webkit-background-clip:text;background-clip:text;color:transparent}\n.tag{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;border-radius:6px}\n.card,.row-c,.url,.tile{color:#16131C;border-color:#0B0D18}\n.card{box-shadow:12px 12px 0 #9B3FE6;border-radius:18px} .row-c,.url{box-shadow:8px 8px 0 #9B3FE6;border-radius:12px} .tile{box-shadow:8px 8px 0 #9B3FE6;border-radius:14px}\n.row-c .n{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:10px} .chip{border-radius:999px;border-color:#16131C} .chip.on{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;border-color:transparent}\n#tabs div{background:#1E2238;color:#8A8DA8;border-color:#3A3F5C;border-radius:8px} #tabs div.on{background:linear-gradient(90deg,#9B3FE6,#E03AD6);color:#fff;box-shadow:none;border-color:transparent} #tabs div.done{color:#fff}\n.who{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:6px}\n.btn{background:linear-gradient(90deg,#9B3FE6,#E03AD6);box-shadow:0 10px 30px rgba(224,58,214,.45);border-radius:999px}\n.sticker{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-color:#fff;box-shadow:8px 8px 0 #FFC83D;border-radius:12px}\n.think{color:#C13BE8} .bar i{background:linear-gradient(90deg,#9B3FE6,#E03AD6)} .pay{border-radius:999px}\n.logo{display:flex;align-items:center;justify-content:center;gap:22px} .logo .ic2{width:120px;height:120px;border-radius:50%;background:linear-gradient(135deg,#6D5BF0,#E03AD6);display:grid;place-items:center;font-size:66px;box-shadow:0 0 0 6px #fff,0 0 0 10px #16131C}\n.brand-t{font-weight:900;font-size:84px;line-height:.92;letter-spacing:-2px;text-transform:uppercase;text-align:left;color:#16131C}\n.badge2{display:inline-block;border:2px solid #3A3F5C;background:#1E2238;color:#fff;border-radius:999px;padding:10px 20px;font-weight:800;font-size:28px} .chip{color:#16131C;background:#fff} .chip.on{color:#fff} #panel{container-type:size;background:radial-gradient(120% 80% at 50% 0%,#2A1F4E 0%,#14172A 60%);border-left:4px solid #9B3FE6;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:4.5cqw;padding:6cqw;color:#fff}\n#panel .pl{display:flex;align-items:center;gap:3cqw;justify-content:center} #panel .pi{width:16cqw;height:16cqw;border-radius:50%;background:linear-gradient(135deg,#6D5BF0,#E03AD6);display:grid;place-items:center;font-size:9cqw;box-shadow:0 0 0 1cqw #fff}\n#panel .pn{font-weight:900;font-size:11cqw;line-height:.9;text-transform:uppercase;text-align:left;letter-spacing:-.3cqw} #panel .pn b{background:linear-gradient(90deg,#9B3FE6,#E03AD6);-webkit-background-clip:text;background-clip:text;color:transparent}\n#panel .ph{font-weight:900;font-size:8.2cqw;line-height:1.08;text-transform:uppercase} #panel .ph b{color:#FFC83D}\n#panel .pc{display:flex;flex-wrap:wrap;gap:1.6cqw;justify-content:center} #panel .pc span{background:#fff;color:#16131C;border-radius:999px;font-weight:800;font-size:4.6cqw;padding:1.2cqw 3cqw}\n#panel .pb{background:linear-gradient(90deg,#9B3FE6,#E03AD6);border-radius:999px;font-weight:900;font-size:6.4cqw;padding:3.4cqw 6cqw;box-shadow:0 1.5cqw 5cqw rgba(224,58,214,.5)} #panel .pb small{display:block;font-size:4.4cqw;font-weight:700;opacity:.95;text-transform:none}\n#panel .pm{background:#FFB300;color:#16131C;border-radius:999px;font-weight:900;font-size:4.6cqw;padding:1.8cqw 3.6cqw} #panel .pp{font-weight:700;font-size:4.6cqw;color:#C9CBE0} #panel .px{display:none;font-weight:900;font-size:10cqw;line-height:1.05;text-transform:uppercase} #panel .px b{color:#FFC83D} @container (min-aspect-ratio: 1/1){ #panel>*{zoom:.62} #panel{gap:2.6cqh} }\n@container (max-width: 400px){ #panel .ph,#panel .pc,#panel .pp{display:none} #panel{gap:7cqw} #panel .pl{flex-direction:column} #panel .pi{width:40cqw;height:40cqw;font-size:22cqw} #panel .pn{font-size:17cqw;text-align:center} #panel .pb{font-size:10cqw;padding:5cqw 6cqw;border-radius:6cqw} #panel .pb small{font-size:7.4cqw} #panel .pm{font-size:7cqw;border-radius:5cqw;line-height:1.3} #panel .px{display:block} }\n.q{font-weight:900;font-size:64px;text-transform:uppercase;line-height:1.05;text-align:center}.price{font-weight:900;font-size:150px;line-height:1;text-align:center;background:linear-gradient(90deg,#9B3FE6,#E03AD6);-webkit-background-clip:text;background-clip:text;color:transparent}.guess{display:inline-block;background:#1E2238;border:3px solid #3A3F5C;border-radius:14px;padding:12px 24px;font-weight:900;font-size:46px;color:#C9CBE0}.pr{display:flex;justify-content:space-between;align-items:center;font-weight:900;font-size:40px;padding:16px 4px;border-bottom:3px dashed #ddd}.pr b{font-size:48px}\n.pr b{white-space:nowrap;margin-left:16px}\n",
+ "panel": "<div class='pl'><div class='pi'>🚀</div><div class='pn'>Booster<br><b>Perso</b></div></div><div class='px'>Abonnés<br><b>Likes</b><br>Vues</div><div class='ph'>Boostez vos <b>abonnés</b>, <b>likes</b> et <b>vues</b></div><div class='pc'><span>TikTok</span><span>Facebook</span><span>Instagram</span><span>+7</span></div><div class='pp'>🌍 Dispo dans 14 pays africains</div><div class='pb'>COMMANDER<small>booster.perso.bf</small></div><div class='pm'>📱 Orange · Moov · MTN · Wave</div>",
+ "characters": {
+  "naif": {
+   "img": "assets/avatar_cutout.png",
+   "label": "Moi"
+  },
+  "expert": {
+   "img": "assets/perso_bleu_cutout.png",
+   "label": "Le pote"
+  }
+ },
+ "scenes": [
+  {
+   "start": 0,
+   "end": 4.55,
+   "cast": {
+    "naif": {
+     "x": 250,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 820,
+     "h": 900
+    }
+   },
+   "html": "<span class='tag' data-at='0'>Devine le prix 🎯</span><div class='card' data-at='0.9' style='margin-top:24px;padding:34px'><div class='q'>1 000 vues<br><b>TikTok</b></div></div><div class='center' style='margin-top:34px'><span class='sticker' data-at='3.0' data-rot='-4' style='font-size:70px'>= ??? FCFA</span></div>"
+  },
+  {
+   "start": 4.55,
+   "end": 7.2,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 960
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<span class='tag'>Devine le prix 🎯</span><div class='card' data-at='0' style='margin-top:24px;padding:34px'><div class='q'>1 000 vues<br><b>TikTok</b></div></div><div class='center' style='margin-top:34px'><span class='guess' data-at='1.0' data-anim='pop'>Sa réponse : 5 000 F ? 🤔</span></div>"
+  },
+  {
+   "start": 7.2,
+   "end": 11.4,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 760
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<span class='tag'>Réponse</span><div class='card' data-at='0' style='margin-top:24px;padding:34px'><div class='q'>1 000 vues <b>TikTok</b></div></div><div class='center' style='margin-top:30px'><span class='guess'><span class='strike' data-strike='0.2'>5 000 F</span></span></div><div class='price' data-at='0.4' data-anim='pop' style='margin-top:26px'>200 F</div><div class='center' style='margin-top:20px'><span class='sticker' data-at='2.4' data-rot='4' style='font-size:44px;background:#FFC83D;color:#16131C'>😳 Tu rigoles !</span></div>"
+  },
+  {
+   "start": 11.4,
+   "end": 14.9,
+   "cast": {
+    "naif": {
+     "x": 250,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 820,
+     "h": 900
+    }
+   },
+   "html": "<span class='tag'>Question 2 🎯</span><div class='card' data-at='0.4' style='margin-top:24px;padding:34px'><div class='q'>100 abonnés<br><b>Facebook</b></div></div><div class='center' style='margin-top:34px'><span class='guess' data-at='2.8' data-anim='pop'>Sa réponse : 2 000 F ?</span></div>"
+  },
+  {
+   "start": 14.9,
+   "end": 19.0,
+   "cast": {
+    "naif": {
+     "x": 220,
+     "h": 640,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 820,
+     "h": 860
+    }
+   },
+   "html": "<span class='tag'>Réponses</span><div class='card' data-at='0' style='margin-top:24px;padding:26px 34px;zoom:1.25'><div class='pr'><span>100 abonnés Facebook</span><b data-at='0.15' data-anim='pop'><span class='strike' data-strike='0.1' style='color:#999;font-size:30px'>2 000</span> 350 F</b></div><div class='pr' data-at='1.5' data-anim='slide' style='border:0'><span>100 likes Instagram</span><b>200 F</b></div></div>"
+  },
+  {
+   "start": 19.0,
+   "end": 21.0,
+   "cast": {
+    "naif": {
+     "x": 330,
+     "h": 960
+    },
+    "expert": {
+     "x": 830,
+     "h": 860,
+     "o": 0.9
+    }
+   },
+   "html": "<div class='title xl' data-at='0.05' style='margin-top:90px;font-size:84px'>« Je commande<br><b>comment ?</b> »</div>"
+  },
+  {
+   "start": 21.0,
+   "end": 28.4,
+   "cast": {
+    "naif": {
+     "x": 240,
+     "h": 700,
+     "o": 0.95
+    },
+    "expert": {
+     "x": 830,
+     "h": 800
+    }
+   },
+   "html": "<div class='card' data-at='0.05' style='margin-top:10px;padding:40px 30px'><div class='logo'><div class='ic2'>🚀</div><div class='brand-t'>Booster<br><b>Perso</b></div></div><div class='center' style='font-weight:800;font-size:30px;margin-top:24px;color:#444'>Abonnés · Likes · Vues — rapidement</div></div><div class='center' style='margin-top:40px'><span class='btn' data-at='0.6' style='font-size:54px;padding:24px 44px;text-transform:none'>booster.perso.bf</span></div><div class='center' style='margin-top:34px'><span class='pay' data-at='1.6' style='font-size:30px'>📱 Orange · Moov · MTN · Wave</span></div><div class='center' data-at='2.6' style='margin-top:26px;font-weight:700;font-size:26px;color:#8A8DA8'>Prix affichés sur le site le 28/11/2026 · peuvent changer</div>"
+  }
+ ],
+ "lines": [
+  {
+   "who": "expert",
+   "start": 0.25,
+   "end": 4.41,
+   "text": "Jeu rapide. Mille vues TikTok sur Booster Perso : ça coûte combien, d'après toi ?"
+  },
+  {
+   "who": "naif",
+   "start": 4.69,
+   "end": 7.05,
+   "text": "Euh… cinq mille francs ?"
+  },
+  {
+   "who": "expert",
+   "start": 7.33,
+   "end": 9.033,
+   "text": "Deux cents francs CFA."
+  },
+  {
+   "who": "naif",
+   "start": 9.313,
+   "end": 11.254,
+   "text": "Deux cents ?! Tu rigoles !"
+  },
+  {
+   "who": "expert",
+   "start": 11.534,
+   "end": 13.943,
+   "text": "Deuxième question. Cent abonnés Facebook ?"
+  },
+  {
+   "who": "naif",
+   "start": 14.223,
+   "end": 14.774,
+   "text": "Deux mille ?"
+  },
+  {
+   "who": "expert",
+   "start": 15.054,
+   "end": 18.815,
+   "text": "Trois cent cinquante. Et cent likes Instagram : deux cents francs."
+  },
+  {
+   "who": "naif",
+   "start": 19.095,
+   "end": 20.87,
+   "text": "Bon… je commande comment ?"
+  },
+  {
+   "who": "expert",
+   "start": 21.15,
+   "end": 27.578,
+   "text": "booster.perso.bf. Tu colles ton lien, tu payes par Mobile Money. Tous les prix sont sur le site."
+  }
+ ]
+}
